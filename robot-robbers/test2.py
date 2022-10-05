@@ -4,6 +4,7 @@ import numpy as np
 import gym
 import tensorflow as tf
 
+
 # env = gym.make('CartPole-v0')
 
 from game.environment import RobotRobbersEnv
@@ -12,8 +13,8 @@ env = RobotRobbersEnv()
 
 
 # CONFIG STUFZ
-input_dimensions = 65
-number_of_actions = 4
+input_dimensions = 57
+number_of_actions = 9
 
 lr = 0.001
 n_games = 500
@@ -33,12 +34,22 @@ def map_action(action_number):
         a = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0] # GO UP
     elif action_number == 3:
         a = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0] # GO RIGHT
+    elif action_number == 4:
+        a = [1, -1, 0, 0, 0, 0, 0, 0, 0, 0] # GO UPLEFT
+    elif action_number == 5:
+        a = [-1, -1, 0, 0, 0, 0, 0, 0, 0, 0] # GO DOWNLEFT
+    elif action_number == 6:
+        a = [1, 1, 0, 0, 0, 0, 0, 0, 0, 0] # GO UPRIGHT
+    elif action_number == 7:
+        a = [-1, 1, 0, 0, 0, 0, 0, 0, 0, 0] # GO DOWNRIGHT
+    elif action_number == 8:
+        a = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] # STAY
     
     return a
 
 def map_observation(observation):
     a = np.array([])
-    for i in range(5):
+    for i in range(1):
         a = np.append(a, observation[0][i][0:2]) # PLAYERS
     for i in range(7):
         a = np.append(a, observation[1][i][0:2]) # ENEMIES

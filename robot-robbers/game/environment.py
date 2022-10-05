@@ -12,8 +12,8 @@ class RobotRobbersEnv(gym.Env):
         super(RobotRobbersEnv, self).__init__()
 
         # Game settings
-        self.width = 128
-        self.height = 128
+        self.width = 50
+        self.height = 50
 
         self.n_element_types = 5
         self.max_n_elements_per_type = 10
@@ -137,11 +137,13 @@ class RobotRobbersEnv(gym.Env):
             for i in range(self.n_robbers):
                 rx, ry = self._robber_positions[i]
                 has_cashbags = self._cashbag_carriers[i] > 0
+                
 
                 # Give a penalty and take away the cashbag
                 if rx == sx and ry == sy and self._robber_cooldown[i] <= 0:
                     self._robber_cooldown[i] = self._robber_cooldown_ticks
-
+                    if i == 0:
+                        self._reward -= 1
                     if has_cashbags:
                         self._reward -= 3
                         self._cashbag_carriers[i] = 0
@@ -171,7 +173,7 @@ class RobotRobbersEnv(gym.Env):
             self._robber_cooldown[i] -= 1
 
         d = False
-        if self._game_ticks % 100 == 0:
+        if self._game_ticks % 500 == 0:
             d = True
         return (
             self._get_observation(),
