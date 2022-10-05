@@ -121,6 +121,7 @@ class RobotRobbersEnv(gym.Env):
                     self._n_cashbags -= 1
                     self._cashbag_carriers[i] += 1
                     self._cashbag_positions[j] = -1, -1
+                    self._reward += 1
 
         # Check if any robbers are in the same location as dropspots
         for dx, dy in self._dropspot_positions:
@@ -169,10 +170,13 @@ class RobotRobbersEnv(gym.Env):
         for i in range(self.n_robbers):
             self._robber_cooldown[i] -= 1
 
+        d = False
+        if self._game_ticks % 100 == 0:
+            d = True
         return (
             self._get_observation(),
             episode_reward,
-            False,  # Never terminate
+            d,  # Never terminate
             {
                 "total_reward": self._total_reward,
                 "game_ticks": self._game_ticks
