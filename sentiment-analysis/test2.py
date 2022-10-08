@@ -17,21 +17,21 @@ oov_tok = "<OOV>"
 training_size = 40000
 num_epochs = 6
 
-data = pd.read_csv('./data/IMDB Dataset.csv', sep=',', on_bad_lines="skip")
+data = pd.read_csv('./data/CompleteDataset.csv', sep=',', on_bad_lines="skip")
 
 sentences = []
 labels = []
 
 for item in data["review"]:
-    if len(item) < 4:
+    if len(str(item)) < 4:
         print("error on: ", item)
     sentences.append(str(item))
 
-for item in data["sentiment"]:
+for item in data["rating"]:
     
-    if item == "negative":
+    if item == 1 or item == 2:
         labels.append(0)
-    elif item == "positive":
+    elif item == 3 or item == 4 or item == 5:
         labels.append(1)
     else:
         print("ERROR on: ", item)
@@ -74,15 +74,9 @@ model.compile(loss='binary_crossentropy',optimizer='adam',metrics=['accuracy'])
 history = model.fit(training_padded, training_labels, epochs=num_epochs, validation_data=(testing_padded, testing_labels), verbose=1)
 
 
-sentence_arr = ["Very good. Best thing I have ever seen. Period.", "Worst crap garbage. Shit fuck it was bad!"]
+sentence_arr = pd.read_csv('./data/data.csv', sep=',', on_bad_lines="skip")
 
-# sentence = pd.read_csv('./data/data.csv', sep=',', on_bad_lines="skip")
-# for item in sentence["comment"]:
-#     if len(item) < 4:
-#         print("error on: ", item)
-#     sentence_arr.append(str(item))
-
-sequences = tokenizer.texts_to_sequences(sentence_arr)
+sequences = tokenizer.texts_to_sequences(sentence_arr["comment"])
 padded = pad_sequences(sequences, maxlen=max_length, padding=padding_type, truncating=trunc_type)
 print(model.predict(padded))
 model.save('./my_model')
