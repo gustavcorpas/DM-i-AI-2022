@@ -1,0 +1,617 @@
+rating,review
+5,Have Wi-Fi bridge and a Poe camera connected works perfect
+5,Excellent
+5,I needed a rackmount switch with PoE. This switch delivers 48V which is standard for PoE or PoE+. I had purchased another switch that only delivered 24V and would not power my PTZ Camera which I had to return. Note that this switch does have a very quiet cooling fan and it came with rack-mounting hardware. Some have suggested a short life expectancy on TP-Link network equipment but with a lifetime warranty I am keeping the box in case it needs to be returned. Solid product great performance value pricing.
+4,Bought to replace a switch from the same company that had fewer ports. At Church we have a few devices back in the sound booth.  A WiFi access point two computers a projector and a Ethernet sound link to a room on the other end of the building. Needed a POE switch for the access point and the projector.  This got all devices connected.
+5,Used it to connect an IP Security Camera to my home network. Did this through POE+ through a 500' spool of CAT6 cable to the IP Camera. Everything worked first time and I saw no problems indicating power or communication issues. After running for four hours neither the power supply nor the switch were even warm to the touch (with only one POE load it shouldn't be). Seems solidly built. I like the fact that it is fanless (one less weak link to cause a failure)! I'm going to use this to connect four POE security cameras to my network so it will be loaded and running 24/7 so I'll update if I experience any issues.
+4,i was unaware this device had a fan.
+5,Es un exelente adaptador multipuerto para conexiones ethernet con este equipo he resuelto muchos de mis problemas de conectividad en casa ya que mi router tenia solo para 4 conexiones a ethernet y tenemos varios equipos a los que necesitábamos llevarle internet y no por vía wifi tiene 8 puertos a ethernet 4 de ellos tienen transferencia de datos POP la velocidad es increíble puedes ponerlo en una mesa como en la pared porque en la parte de atrás tiene dos orificios para colgarlo a la pared nop se caliente ademas de que cuenta con unas luces led que te dicen cuando y que puerto  se esta usando de los 8 que tiene la instalación es fácil pero ademas cuenta con un manual que explica como se conecta todo lo recomiendo 100 por ciento
+5,I purchased this product to power a POE camera plus another one I will install in the future.  Just plug it in and it works as advertised.  I like the fact that each port has a light to indicate its connectivity status and its speed (10/100 Mb or Gb) and if the port is providing power (only for POE ports).  The non-POE devices connected to it work fine.  As a simple unmanaged switch the only other thing I can hope for is longevity.  It has been running for a couple weeks time will tell.
+5,Using this PoE switch to power up 2 TP-Link EAP225 and 1 EAP235 access points and 1  TP-Link OC200 hardware controller as well as a switch for the rest of my home network. Been running flawlessly for 1 month
+4,Works great
+5,This device supports a critical team that was moved into a space with only one network connection. This device allowed us to set the office up quickly with two desktop computers and two PoE VoIP phones. After several weeks of use we don't even realize it is there because it is quiet small and has given zero problems.
+3,This switch has fans in it.  I guess that is why it is sort of a piece of network equipment that is expected to go into a rack or in a network close.  If you have a set up like and have your networking gear near where you sit then this will be too noisy unless you have something else that is louder than this.  The fan(s) are not that loud but way louder than the fans on my computers.  So I put it away in storage just in case I need a switch in a pinch.  I assume it does what is was designed to do.  I only turned it on for a few minutes the shut it off and put it back in the box.  I did manage to find another switch that was designed without a fan.
+5,It's work good I am use it for cameras connect to nvr
+5,I use this POE 8-port switch to power three IP security cameras along with handling the data for several others.  These cameras are running 24/7/365 sending their video streams to the PC that runs the NVR.  I set all this up for the first time in October of 2014!I've been expecting something to go wrong as it seems nothing is designed to last very long these days.  Here we are starting off 2020 and this little switch is still humming along with no issues.  I gotta say I am pretty impressed that something at this price point can take this kind of constant workload and keep going for 6 years (or longer!).  I have another TP-Link 16 port switch that handles the rest of my network (not camera related) traffic for the house and it has also been flawless for 6 years now too.
+5,This switch box works great! However if your Upgrading your existing Ring cameras from WiFi USB powered to POE be sure to reset the cameras from WiFi video signal to POE video signal by pressing the orange reset button on the base of the camera (in setup mode you choose Ethernet connection option) during ether-net hook up. If you don't you will be powered by POE but still stuck in WiFi video sound with all the issues it may have.  Also use the best OUTDOOR rated ether-net cable you can. I used OUTDOOR rated CAT 8 cable with much better video and sound quality than WiFi.
+4,Very good unit and very easy to use.
+4,Nice economical router with 4 of 8 ports as POE.  About the only thing its missing is a way to mount this on a wall to get it up and out of the way.  I have a total of 3 Amcrest POE cameras on this device and 2 Two of my POE cameras uses 100' of outdoor cable and they have no problems getting enough power even with the built in Night vision IR light turned on. I currently use this one out in my unheated garage and its been cold lately and temperature out there has dropped below its rated operating temperature (32 to 104F) but it hasn't caused me a problem which is a bonus.  Nice economical POE switch I don't think its as nice as my netgear POE Web Managed Plus switch but i paid more for that one and you rarely use the other features that one provides.  A good choice if you have a couple of POE devices.  If you only have a single POE device a POE injector will probably be more economical that buying a dedicated switch like this.
+2,Update:The problematic switch no longer will communicate with the network.  It sends power to POE devices but the network no longer can connect to the AP or the camera.  I replaced it with a Netgear 5 port POE switch and everything is working again.Bottomline: 50% failure rate at 6 months. Buyer bewareI bought 2 of these at the same time.  They are both set up the same way:  Ubiquiti Airmax radio in a NON-POE port and a Ubiquiti AP in a POE+ port.5 months on one works perfectly and the other does not support the POE+ ports correctly (none of the POE+ ports).  I have a work around with a POE injector but the Switch is a disappointment
+5,So far so good. This switch powers my TP-Link EAP 225 wireless access points with no problem and I think I am even getting better performance out of  the WAP's since I eliminated the Fios router from switching duties. For someone looking for a simple switch til 10GB internet speed is available I recommend this model. If you have TP-Link EAP 245 WAP's this switch will not work with the 245's since they are not af
+5,This switch has lots of POE+ power.  It has operated perfectly for me
+5,I bought this to use in my home in Brazil so I was  not able to test it until I returned to Brazil and as luck would have it the POE did not function. The switch works but the key part I needed was the POE and it fails on all POE ports. I can't return it until I get back to the US and that's not until May. I can't recommend this based on it failure right out of the box.I have revised my rating to 5 stars I made the error of not doing the research on this POE switch had I done the proper research I would have found that my POE devices were not compatible with this POE switch. I tested the switch with a compatible POE device and it worked perfectly.
+3,Bought this switch to replace a non-POE Gigabit switch that I had.  As a basic switch it's still working fine but after about 18 months the POE portion of it went out. I was able to get by on some POE injectors I had lying around for a while but considering that I already had a gigabit switch and this one was purchased solely for the addition of POE it is effectively a wasted upgrade now.I'll probably try a different brand in a few months when I feel like tinkering with the setup again.
+5,Being a Network Engineer as my profession and having access to high-end Cisco and other manufacture networking gear I can tell you this is an excellent switch for your home or home office setup. With the 8 - 10/100/1000 Mbps ports with a 16Gbps non-blocking capacity your not going to max this switch out on a home network. And the 4 PoE ports (IEEE 802.3af compliant) are solid and will power just about anything a small home network would need (security camera's home wireless router etc...). Just pay attention to your power usage so that you don't go over the >=53w draw or it will start dropping power to the ports. Oh and because the power supply is external to the unit it is small and more importantly fanless so it makes no noise. It is at the perfect price point vs features & functionality.Add it to your cart and you will not have any regrets.
+5,Works fine.
+5,Just bought my second one it's as good as the first.  Truly plug-and-play these just do what you want them to do no setup and no maintenance.  First one's been working flawlessly for 2+ years.  Nice to know you can have a reliable network.
+4,The switch works great like it says on the tin. Unfortunately the power brick is huge which it doesn’t show in any of the official pictures. I wish I had known as I would’ve considered getting a switch with it built-in.
+5,Nice little switch for devices that utilize PoE.  I use this to power 4 IP cameras for my surveillance setup for home and this provides plenty of power for all 4 cameras.  Not rack mountable so you will have to find your own way of mounting if using in a rack environment.  This is a "dumb" switch meaning it is unmanaged which makes setup and integration into my network easy.For those considering purchasing this only has 4 ports that are PoE 4 are standard gigabit.  I am not listing this as a con or taking away any stars as a result because I knew what I was getting.  If you are someone who needs 8 PoE ports get the TP-Link TL-SG1008PE or equivelant as it will have all 8 ports as PoE.  Overall great for what I need it just plugs in and works!
+5,When I moved to a new office only one ethernet port was turned on. The CISCO phone I have supports 1Gb ethernet but our local folks configured it for 100-BaseT. Our connection is 1Gb as is my desktop computer. So I could either plug the computer into the ethernet directly to get full speed or into the phone’s passthrough port to get 100-BaseT. This box allows me to connect both. Now I have spare lines foe my laptop to connect when I bring it in to work (a bonus). The phone lit up right away and the computer gets about 800Mbps synchronous throughput (compared to 50Mbps channeled through the phone).
+5,I wish I new about this device sooner.  I was using a 16 port Fast Ethernet Switch but it lacked POE.  After the setup of the TP-Link 8 Port Poe Gigabit Switch I reduced a number of cables and plugs for my home office.  It also enhanced the quality of my VoIP phone and I removed the ATA device.  Very east to set-up.
+5,Solid metal construction.  Unmanaged uses IEEE 802.3x flow control.  With a 10W PoE+ access point connected and 6 of 8 ports populated this switch does not even get warm.  So far so good time will tell.
+5,Good POE switch for home. I used it to power my IP cameras and it worked quite well. No issues at all.
+5,Was very simple to install. Plug and play level. Worked as soon as connections were clicked in it was plugged in. Very easy. Haven't thought about it since.
+2,Purchased it to be used in a living room console to split the gigabit line across multiple ethernet devices (Tv Roku Lighting hub etc.) and hoping to extend the unit to a few future POE devices. The switch worked great as a Plug and play unit and all the devices worked just fine. But the unit produces a constant drone like sound which although not too loud is extremely bothersome in a quiet setting (especially noticeable at night time when activity in the household calms down). To a person sensitive to sounds it can easily trigger a migraine. May not be an issue for someone using it a switch in closet or a better sound proof setup.Sadly didn't get a chance to test the POE capabilities.Returning the product for a TP Link 8 port 4 port POE  'fanless' switch with  lower power ratings.
+5,This switch is great and surprisingly for some reason made my TV be a bit more responsive loading videos. Odd but great can't complain. Important aspect was being fanless and reliable. So far really liking this switch. Also like the fact that the lights are not very bright.
+5,This unit provided the needed extra Ethernet ports beyond the four provided by my Netgear Router.Simply works well for what I needed.
+3,it is a 8-port giga switch with some ports to be also PoE to power WAP. Normally those type of electronics just works for years to come. What could go wrong you ask? Well they may put the front black label up side down so all the indicators describing active ports are covered up or misleading. And that is what I got. Don't get me wrong - it still works as intended - as long as you don't look at it in case of network problems. Shame on QC.On positive side Amazon takes care of shipping a replacement immediately.Other than that it is fanless. it has metal case with some vents on both sides I wish it had some kind of mounting holes on the back.
+4,Bought this to connect some of electronic devices and it worked great.
+4,Still working after a few months and the price was reasonably low compared to other simple PoE Gb switches. It is in my closet so it is an optimal environment (cool and dry). I am using this one for PoE cameras. I don't know how it would do in my garage in summer (it can hit 100 degrees in there). I like TP-Link and their other switches I have purchased have held up to the various environments so I think it would be fine.
+5,Powering a few cameras and linking the main branch of my lan together very happy with another TP-link device in my network.
+5,I bought this to replace an aging gigabit Linksys switch for two reasons. One I needed more ports and two I needed POE to connect my new WAP. Being an un-managed switch this device was plug and play.I was impressed by the build quality of this unit. It was a lot heavier than I thought it was going to be. TP-LINK has really stepped up their product game. There isn't really much to this unit. As I mentioned it's just plug and play so connect your devices connect the power and you're off!
+5,I'm using this to power 2 PoE devices (network cams) and then a handful of other non-PoE things (about 4).  Everything connected up fine and the PoE cams powered right up no issues.  The power adapter was nice and small along with the siwtch itself.  It takes up less space than the old switch I had (which was only 4 port non PoE) and I got to eliminate a PoE injector I was using before.Sweet little switch... should have got one a while ago but I cheaped out and just got a single injector to go with my older 4-port gigabit switch.  When I added another net cam I figured this was the time to upgrade and this device has a nice price point.
+5,Runs my cameras and network great.
+5,I use this for my video surveillance system.  It works great.  I like not having to run separate power wires to my POE IP cameras.Update 4/2/16: It's been about 18 months with this switch and it's still working perfectly.  I have it fully populated with Huisun brand mini-PTZ cameras. Well that's seven cameras since one port is the LAN uplink to the switch from my surveillance network. Before buying this I had gone through several POE solutions with even less-power-hungry cameras and no other switch worked.  It is great to find a switch that really delivers enough power to load all ports and a low-power PTZ that works POE.  Those cameras and this switch make a great combination.
+4,Just like the other reviews the only problem is a less than stellar power plug that seems to wiggle loose any any movement of the switch. Which leaves me a little concern b/c it sends power "flickers" to my PoE IP cameras. Sometimes the power fluctuations case the camsers to act funny. So to address the situation I created a makeshift cable strap that helps to secure the power cable to the switch. Problem Solved.Outside of that it has been running 4 PoE switches w/out problems for 2 months w/out any problems with the switch.
+5,I bought this as as I needed POE for my phone from work. It took just a minute to install and boot up and works like a switch should. I wish it had some sort of configuration ability but I don't really need it. If I needed that I would have just bought a managed switch.
+1,I was reluctant to purchase another TP-link as 2 previous devices failed in some way.  I talked myself into it because it had been awhile since my last purchase and it seemed to have solid reviews.But alas it failed less than 5 weeks in.  FWIW the POE ports have both lights show solid and ports 5-8 do not light up at all.Now despite having a "Lifetime Limited Warranty" I am struggling to get any support.  I can not register the product because the web site says the serial number is not "compatible" with my region (United States). The only way to get warranty support is by creating a TP-link account and registering the products and requesting RMA service so now I have had to enter a trouble ticket just to register the thing before I can even start the prerequisite steps (yeah I turned it off and back on again) to show it really doesn't work.
+5,Bought this to power a Ubiquity cloud key gen2 plus a unifi access point and 2 unifi cameras.  I didn't need any custom managment so this unmanaged switch was fine and it allowed me to use 3 less outlets.
+5,I like the value with tp link this poe switch is running 3 reolink cameras and also my wireless ap. I have not had any issues or even needed to reboot for any reason.
+2,I tried to use this in a location where the power cycles regularly and about 10% of the time when it comes up it runs for about 45 seconds and then stops moving frames. All the link lights stay on but no traffic moves. Dissapointing. It's probably OK for home use where the power supply is stable or on a UPS because if it doesn't crash in the first minute it seems to work OK for days - but don't set it up where you can't easily get at it to power cycle it.
+5,Great quality and powers everything appropriately
+5,Terrific product for my home personal use.  This is a rugged steel switch that stays cool to the touch in my closet.  All the ports are connected with two PoE in use to power my Access Points so they don't need an additional power cord that would clutter up my home.  There was no set up other than plugging in the power and ethernet cords and it was ready to play.
+4,The switch is a good choice when you want 10/100/1000 and have a few devices that need Power over Ethernet (PoE). However it lacks slots in the base plate so it cannot be hung on a wall.Searching for a wall mount kit after the fact reveals other have the same complaint (and I have not been able to find a mounting kit online).
+5,would be cool if it had a web interface that allowed switching power on and off to a given port but for the price i cant complain. does what it says on the box. currently powering one ip phone and 3 ip cameras. thankfully ive never had a camera freeze and require plug pulled to reboot so the above feature it lacks hasnt been required.
+4,Silently powering 3 IP POE cameras and an Ubiquiti Unifi AC-AP Pro. Works great and have not had any issues with it. I do wish the status lights were on the ports not on the front which would make it easier to check the status at a glance since I'm not using this in a rack and desktop setup.
+3,Purchased this switch because you plug your cables from the rear. Very cheaply made as the front panel is plastic that is glued onto the case. While I was handling the switch I was hearing this popping noise which was because the thin plastic wasn’t glued on tightly. The switch works but very cheaply made
+5,Building a new home network and wanted to include some security cameras w/o having to run power. This is a perfect solution for some POE devices and expands my core switch capacity a little bit at the same time allowing me to reposition the WAP anywhere else on the networkWorks great hasn't needed any reboots in months handles the traffic just fine it seems. Just about as small as you're going to get for an 8-port gigabit switch too
+5,Product is well-built and performs well for its intended use.
+4,Powers my Ubiquity AP just fine but isn't wall mountable which will likely result in me returning it. Otherwise I'd say it's pretty good. Seems to run cool although I don't have a high amount of user activity on it.
+5,It's hard to "love" a gig switch even if it's a PoE box. Easy to unpack nothing to install. The wall wart is a bit large to support all the PoE. I cannot screw this one to the wall unlike the one w/o PoE which I've now mounted to a wall. The three cameras are happily consuming the power so all's well there.
+5,I use this switch for two wired PoE security cameras and it works great. I also use it to connect my Google WiFi mesh network two computers and a cable modem. Perfect for my needs.
+5,Good camera. I'm using it with iSpy recording software and it's exactly what I had hoped for. Picture is Crystal clear and working perfectly. If anything bad ever happens to my car I'm sure I'll have usable evidence in a courtroom. I can also view my video before I get home too make sure that there's a parking spot available before I pull in.
+5,Wired my house with Cat 6 cables recently while doing some renovation and remodeling.  Needed this switch so that I can have all the wiring connected to my router.  Easy to connect and really no technical skills needed.  Just plug in the power plug in your ethernet cables and it simply works.  So far no issues and a great value for the price.
+3,Update: 2.5 years after my initial review the switch has been bulletproof but failed in the worst way I can think. The 3rd PoE port died in such a manner that it takes out the connected PoE device permanently. I'm guessing an over voltage or reverse voltage situation but I'm not willing to sacrifice another splitter to determine what it is. When I bought the product I think the Netgear equivalent was significantly more expensive but that is not the case any more.Original: Been up and running for a month or so. Powering three PoE devices without issue (not near the limit) and the backplane seems to deliver the advertised speed.
+4,Nice network switch for minimum POE power on small surveillance cameras.  If it gets moved around (plugging in a new connection) it loses power and I have to jiggle the power connector to get things going again.  Other than that it's a nice product that shows when the ports are using Gigabit and/or POE connections.
+5,It does what a managed switch is supposed to do.  It's small  silent and plug and play.  No need to buy anything more expensive for a simple home network.  I bought mine for the PoE feature and it works great!
+5,Great little PoE switch and tough to beat for the money.
+5,Has been running 4 POE-IP Cameras with IR LEDs 24 hours a day for the past 3 months without a problem.  No reboots or issues and computers connected to this switch get full gigabit connectivity as anticipated.  Recommend.
+5,Switch works great I used them for some 3MP POE IP cameras with no problems.  Some cameras had 50 ft of ethernet cable with no issues.  Keep in mind that these are "dumb" unmanaged switches so you will not be able to login to them and set firewalls and IP addresses like on a managed router.  Gigabit is probably overkill for just four 3MP cameras though a 10/100 switch should work just as well.
+5,Super easy to set up. Fast and reliable. Best of all it powers my two UniFi AP AC Pros perfectly. I have three TP-Link gigabit switches in my house this one an 8 port smart switch with SFP and a 16 port. They all work perfectly and give me nearly gigabit speed to and from my NAS. Highly recommended.
+4,I bought this to run our IP security cameras on a separate network in our house.  Seems to work just as designed.  It powers the cameras with no problem and the cameras are never off line due to a network issue.
+5,I have 4 POE IP cams (Hikvision) and a SolarEdge solar inverter (non-POE) connected to this switch. Works exactly as I planned. It's only been a week so will see about longevity in an uninsulated garage setting (SoCal) but had no issues with getting the equipment up on the network with this switch.
+5,It works well
+5,Worked great.  Nicely built.  Quality service until the end.  A ricochet got it and ended its life.  Buying another as a replacement!
+2,You need someone that is tech savvy for this type of equipment.
+5,Works just as expected - I have 3 PoE IP cameras (9w each) and 4 workstations hooked up to this which are all working great.  This is as small as you'd expect an 8 port switch to be (the TP-Link 8 port PoE switch is much larger).  This uses an external power adapter.. So far its barely even warm with 7 of its 8 ports being used.  Highly recommended!
+5,Working great! Not much else to say. I’m powering 3 security cameras with it.
+5,I bought several of these to install POE security cameras throughout a nightclub. They have 4 powered ports and 4 standard ports to connect the switches together minimizing home runs. 28 cameras hooked up to these and not a glitch anywhere.
+5,Great switch to expand your network  add access  points and or poe led lighting.
+5,One of the few inexpensive gigabit PoE switches on the market.  Most surveillance cameras work @ 100 Mbps but when you combine four high-resolution cameras it's important not to bottleneck the path back to the DVR.  Also this switch has one of the most robust power output specs I could find.  If your camera is loaded with infra-red LEDs for night vision that's important.
+5,Great value for POE with the added benefit of extra ports that are not POE.
+3,I'm not positive but I believe this POE switch may have caused my IP camera to short but it had to be returned since it was basically dead. Prior to using this switch I had used a TPLINK injector and splitter set to 12v with no problems but when I swapped out the splitter/injector with a cat 5 coupler and plugged directly into the switch it no longer worked. Otherwise the switch works fine with another IP Cam and other non-POE appliances.
+5,very efficient for an enterprise networking system and i would highly recommend especailly if your hosue is bigger or has a lot of walls/levels. we've never had issues with our system/needed to reset etc.
+5,It works. Out of sight out of mind kind of thing.
+5,TP-LINK is the best in consumer networking. This is a great switch for powering on few servilance cameras over PoE. One cable for everything.
+3,I never used because I thought it would have eliminated the necessity of having ever security camera powered. I purchased another system with internal Poe switch.
+5,really dumped a lot of traffic on it and it's working well
+5,We just upgraded our telephony system (Mitel) at work and received IP phones for telecommuting. The phones use power-over-Ethernet which meant that we needed a power injector and an extra network cable. I wanted some extra Ethernet ports in my home office anyway so I bought this switch for the PoE capabilities.  It powers the Mitel 5330 IP Phone just fine and gave me less clutter to deal with.
+4,Currently powers three Cisco LAP-1142N access points in my house along with gigabit ports for other devices.  Perfect product for the price.  Does what it says it does.
+5,I've had good luck with TP-Link products in the past and this was no exception. Used this to light up some Cisco IP phones in a test VOIP environment and worked fine. No hassle and cost effective.
+4,Good quality. Only 4 ports are POE but it fits my needs and at this price point I'm quite happy.
+5,Works good like its supposed to I used this for a POE ip camera no problems at all
+4,Does what it's supposed to. Supplies adequate power. One gripe is that the power plug (where it goes into the switch) works loose easily so relatively slight jostling may cause the switch to power cycle.
+4,Product has been working great so forI have not had any problems
+5,This is a great POE switch I am currently powering four IP Camera's and I have not had a single glitch with this switch. Very small form factor and works exactly as advertised!
+5,Loved this POE switch had to return because I needed more ports but it worked fantastically. Powered my Camera system just fine.Would buy again if I needed an 8 port POE switch.
+5,Plug-and-play. Using this unit for multiple IP PoE cameras as well as ethernet ports in the home. The PoE autosensing picked right up after plug in with no delay. Great product!
+3,This is a really nice switch for the price. It has 4 PoE pots and 4 regular gigi ports. However if you want to mount this to a wall or under a desk you cannot. There is no mounting provisions on the switch. I wanted to wall mount this and cannot. I will have to improvise with some 3M command strips.
+5,This is an awesome little piece of electronics.  It powers my access point just fine and I am curious as to how it will function when I add more to it.
+5,Works as it should. No problems. Powers my Ring SU cam via POE.
+3,Works fine but the power cord disconnects from the back of the switch WAY too easily.  If you never move it it's fine.  But if you move it even SLIGHTLY there's a good chance it will disconnect.Just don't ever touch the switch or cables and you're good!
+5,Got this switch to power my 3 PoE cameras and it's working as advertised.  The price was very competitive for a "gig" PoE switch.  Please note that all the ports are 1Gbps speed but only 4 are powered.
+5,Works well - PoE and Gigabit - not much to configure or report on but it works.  No issues in 6+ months of continuous use.
+5,For the price it's great. Any managed switch is going to be able to do more but at this price level there is nothing that touches it. Very reliable so far using it to drive two POE devices. Having connections in the back and lights in the front permits you to use it unhidden.
+5,Using with two poe cameras and other devices.  Plugged in and everything just worked. No hassles love it.
+5,Does what I need it to do in a small frame. Id highly recommend it. Used in home office poe powers the voip phone. So issues since arrival.
+1,Switch worked great for 1 year until the POE ports quit working.  I spent 3 hours on the phone trying to utilize TP-Links "lifetime warranty" and in the end will have to pay to ship their faulty product back and then wait for them to test it before they'll send me a replacement.  Wish I had spent a little more on a different product the first time.
+5,Nothing much to write about other than it works well as a POE switch. I've got 3 POE cameras hooked up to this without any issues.
+5,Excellent little "access" switch. I use this to link my AppleTV DVD and Yamaha Receiver back to my Core Ubiquitti switch.Works great I will buy another one for my father's office upstairs.
+5,This worked great for powering up some POE IP cameras. I wanted to clean up some of my cord mess and this did the trick!
+5,great product for the price and 4 poe ports is awesomebetter for the price would be 8 poe ports for wireless camera systems
+5,Replaced a Netgear switch that went bad.Works great without any issues.
+5,very reliable i used it to power 4 poe ip cameras and it had no problem with it!
+5,Plug and play.I got it to simplify part of my network and add some ports.POE port instantly recognized an Ubiquity AP and powered it up.
+5,Excellent solution if you need several POE ethernet and gig ethernet without POE - solved my problem perfectly - works great!
+1,This item was supposed to be new. It has obviously been used. It was also shipped in the manufacturer box that wasnt even taped shut. I have bought several of these in the past and this is the first time this has happened.
+5,Good 8 port switch the POE ports are powering 4 POE Amcrest cameras without issue.  Adapter and unit stay cool to the touch.
+5,This worked extremely well.  Could not be happier with its performance.  Very simple and easy to setup.
+5,I needed this to replace another switch I had but didn't have PoE.  This switch works great and everything worked as expected when I plugged it in internet/and PoE to a VoIP office phone.
+4,NOT SURE YET
+5,Great product. As described. Arrived on time. Happy with the quality and the price. Would buy again from this seller.
+5,works great i'm using it for my gig ethernet and hard wiring my office.
+2,I didn't read the fine print and didn't realize that this unit doesn't provide "passive POE" (24V) only 802.3af POE (48V). Other switches I have purchased know how to provide both on demand. I ended up having to buy converters for my passive components. I won't buy this unit again. I'm not giving the unit two stars because it's faulty but because it isn't responsive to the needs of my industry.
+5,Fantastic POE option. I got rid of all my ingress POE "Y" adapters for my security cams
+5,This is my second TP-Link PoE switch. Simple good price does what it's supposed to.
+5,So far so good.  I used this to power my surveillance cameras.  Feels like very good quality.  No issues at all so far.
+5,Great switch increased the speed of my network.Have been using them for a while and have not had any issues with them.
+5,Thank you
+5,Bought this to upgrade our storage facility camera system. Completely amazed with how sinks it was to set up and use. We used Trendnet cameras with the switch. Combo works flawlessly. Highly recommend.
+5,I use a lot of tp link products and they seem to be good quality and a great value. This switch is working great as well. Another tally for a happy customer
+5,My only regret was not purchasing the all 8 port poe switch. This is a great buy. Works for Hikvision cameras and openmesh AP
+5,Perfect for my desktop use. I use it to connect my computers printers and IP phone (PoE).
+5,I like the equal mix of POE and non POE ports.
+5,Does what it says. They make a good point switch.
+5,Works Great as a POE switch for (4) IP Cams (Dahua/HikV). Plug & Play No Fuss. Just works. No Fan super Quiet.Ref: TL-SG1008P
+5,Very happy with it. Bought it to connect two POE video surveillance cameras and other non-POE devices.
+5,It’s been working great so far.
+5,Needed this to be able to add security cameras that required POE.  Works great.
+4,Worked great no issues. Slows my connection a little but streams video just fine from my camera's
+5,Love it
+5,Worked well as described. We used it to connect a group of Polycom phones.
+5,Runs my 2 Hikvision POE IP Cameras just fine. I'm planning on adding two more soon. I'll update it if can't power them or I run into any issues related to the switch.
+5,Works perfectly thus far powering three Open Mesh access points. Heavier and more robust than I was expecting.
+5,Great product works excellent.
+5,I used it to power 3 access points works great out of the box
+1,Still works as a standard switch but the POE components failed after just four months.  Device believes that it is over-supplying current even if every port is free and refuses to supply power to any port.Will keep around as will still function as racked unmanaged 8-port switch but POE is dead.
+5,POE is awesome! I have 5 cameras on it (1 has a POE injector.)
+5,Great product.  Exactly as described.
+5,Worked as expected. Network communications have worked fast without any issues.
+1,Good:  Product supplies extra ports after maxing out my router ports.Bad:  More expensive than a regular 8 port gigabit switch.Very Bad:  The PoE ports don't work which is the reason I purchased this switch - so I could get rid of a couple of PoE injectors.  My Ubiquiti AC Lite Access Point uses a maximum of 6.5W yet none of the ports on this switch will power it.  So basically I paid an extra $30 or so for nothing.  Way to go.
+5,i was worried about noise and where to put it but this switch is tiny like a pocket book all metal and ultra quiet runs great so far. have not tested the POE ports yet.
+5,Gigabit speed sturdy build quality and four ports of Power-over-Ethernet really make this hard to beat for the price. Highly recommend.
+5,Does what we needed it to do
+5,No issues. Powering 2 Ubiquiti APs via the PoE ports currently.
+2,This product was working ok for about a month after that it manages to burn out my tplink cr1900   my safestream router and my king del mini computer. Talking about Poe more like blow your system to crap . It definitely delivers power with a punch
+5,Great product well made light weight perfect for office or home. I like the flexibility of having multiple ports with some dedicated POE ports.
+5,Clean compact design. Unlike Foscam switch has indicators on side opposite connectors so it's easier to route cables. Running for about a month now with not even a hiccup.
+5,Easy to set up.  It is a good size and after a few weeks I have not had any issues.
+5,I have the switch currently operating 3 POE cameras and it is doing the job quite nicely.
+5,Purchased the device to connect PoE security cameras (Hikivision 3MP).  I have three cameras connected to the switch and it is working great.  No issues...works as advertised.
+2,I bought this to use at work on my desk. Works great for powering my VOIP phone but when I plug my laptop in I can't get an upload greater than .5 mbps when I usually average around 40 mbps. I might just have a faulty one. Usually TP-Link products are pretty reliable.
+4,Good PoE switch.  Disappointed by the fact that it has no mounting points on the bottom.
+5,Works fine.  Quiet unlike my previous fan operated switch.
+5,Great small size. Use the 4 POE ports for cameras and the rest for Cat6 ethernet to our media rooms
+5,Plugged it up and it's been working 24/7 for three weeks.  Power over Ethernet works great with two VOIP phones attached.
+5,Great product
+5,The ability to check/monitor POE power budget would be good.
+5,So far so good.  Powering 2 cameras.  I really wish they would give you an odd number of ports.  you always need one for the uplink to something else.
+5,been installed in the house for a year now hasn't missed a beat
+1,Worked for 5 weeks and then went completely dead. Tested power supply and it seems good but device won't power on. RMA process looks painful and requires me to pay shipping. They won't send replacement until they receive the defective device or I can pay more to speed it up. Honestly it is not worth my time so it is going into the garbage and I'll buy a different brand.
+5,Just as described. Great product. Great price.
+5,Works as specified.  Have not tested to full power draw though.
+5,Worked great to power my POE IP Cameras.  Easy installation just connect to router/modem plug in devices and go.  Super easy.  So far so good!
+5,Awesome
+5,Plug and play. Haven't had any issues at all. I have yet to use the PoE ports...but will be hooking one up soon to my exterior camera.
+5,Worked great. I bought it to drive a IP security cameras.
+5,Like very easy to setup
+5,need 2 PoE ports for PoE cameras and this switch worked great
+5,Works as expected!
+5,Easy to setup just plug and play I recomend 100%
+5,Happy with the product does what it was described.
+5,Great !
+5,Works Great
+5,1 month in working great so far. By far one of the better value switches with PoE ports.
+1,My Amcrest 1080P wouldn't work at all with this POE switch and my IPCam IPCC-7210E only works during the day.  I can only assume the  IPCC-7210E requires more power at night.  It worked perfectly with the included POE injector.  I contacted TP-Link support and was asked to email my problems and they would research and respond.  I sent the email a week ago and have never received a reply.
+5,Best one for my POE camera
+3,Works as a switch just fine.I have yet to find ANY POE device that will work with the POE ports however.I have had to use the device's injectors EVERY time - so the POE function is non value added.
+5,Worked like a charm.  No issues.
+2,7 Months after purchase the POE portion of the switch gave out. The switch portion of the device is still operable but it's not providing any power to my devices. I tried calling customer service to see about an RMA but was unable to reach anyone who could help me. C'est la vie
+5,great 4 port POE
+5,Does exactly what I wanted.
+5,Works great and great price.
+4,Always very pleased with tp link equipment.
+5,Great solid product as usual from TP-Link!
+5,Worked great with Ubiquiti UAP-AC-PRO-US
+5,worked / easy hook up
+1,Leary due to tp link extender caught fire ....no longer using their products.
+5,Thus far price performance has met expectations.
+5,You get a great powerful simple to use switchI bought 5 of these already and have been very pleased.The metal case is worth it.
+5,Great switch. Works great and easy to set up.
+1,Despite its advertised maximum power this switch is incapable of reliably cold-starting four Sharx security cameras. One or two cameras always fail to start because the switch gets locked into some kind of a loop of thinking they draw too much power. After I switched to the NetGear GS108PE on Sharx's advice these problems went away. I believe the TP-Link attempts to start all PoE devices simultaneously and doesn't handle the startup current draw gracefully. The NetGear intelligently starts only one PoE device at a time before proceeding to the next. Whatever the reason I had to return the TP-Link and am keeping the NetGear.
+4,Used to run a small in home camera network. No complaints.
+5,easy to install and use
+5,Bought 2 of them.  Speed is great.  PoE works great for both a Meraki WAP and a Cisco phone.
+5,Great switch for the money.
+5,Great POE switches.
+5,So far so good.  I use it to power my sharx security cameras.  No issue at all!
+5,Perfect - Exactly what I needed
+5,Item as was described
+5,Works wonderfully.  Fast cool supplies adequate power to my PoE devices.
+2,The switch ports work fine however the PoE power quit working after less than 3 weeks of use.  I would not recommend this for PoE applications.  For a inexpensive gigabit switch it is fine.
+5,Works great.
+5,Love it for the price and it does what I need it to do which is power up some POE IP cameras.
+5,Running 4 POE IP Cams with it. No problems.
+5,works great better than the poe injector that I previously bought which did not work for my poe camera.
+5,worked
+5,Works great and does fine job of powering Cisco AP 1600 series WAP
+5,As described. Works as expected.
+5,as pictured works perfect!!
+5,Bought this to power an Aastra 6757i phone.  I've since plugged everything else around my desk into it.  Works great!
+5,Works as expected
+5,Not issues after a few months i think the TP-Link are rebranded NetGear products
+5,good price performs as expected. Perfect for a POE IP cam :D
+5,Works great using it with SADP to power Hikvision Cams
+5,Easy to use. Ports are well labeled and sleek design.
+5,Can't beat the price and the PoE worked great for our Voip phones from ATT
+5,Uses less power then Power over Ethernet switch that came with camera system
+5,great switches for IP cameras
+5,I have several of these for IP camera installations. This is a great product and reliable.
+4,Nice product
+4,No wall mount holes!
+5,https://www.amazon.com/dp/B00BP0SSAS/ref=cm_cr_ryp_prd_ttl_sol_8
+5,It seems to be working great it is powering one IP camera and I plan to add three more soon.
+5,I have two TP-Link 8 ports and they work very well as sub panel breakouts.
+5,Works great.
+5,I connected it and the PoE devices seems to be satisfied. No problems so far.
+5,Works great and is perfect for the price.
+5,really works good
+5,Bought this for the PoE ports - works great.
+5,Great!
+5,It works.  Powers my Hikvision cameras and I haven't had any hiccups.
+5,Works great and at a great price too!
+5,I used it for Voip Phones... it did that job just fine.
+5,Excellent product thanks.
+5,Excellent switch fast shipping
+5,Good Quality and Fast Delivery
+5,So far so good.  Working perfectly
+5,Working well after a couple weeks.
+5,NIce. Small. Simple.
+5,Item  works  as  expected .
+1,Bought two of these switches and on both the power adapter is so loose it makes the switch completely unreliable. It falls out with a slight breeze so mounting these would be out especially if not in a place with really easy access. Yes you could use tape or other brackets but it just strikes me as such an easy thing to get right that was botched.
+3,No wall mount holes in the bottom.
+5,sweet deal from warehouse deals solid poe unit.
+5,Worked as describedEasy to install
+5,Works right out of the box.
+5,Working great for several months now.
+5,Works very well
+1,It came with a standard power cord needs a Mickey Mouse type. Called support on hold for 30 minutes they couldn’t here me yelling in the phone and they hung up. I went online and ordered the power cord. NOT HAPPY!!!!
+5,Yes. Good deal.
+5,Works great
+5,Item was as expected.
+5,thanks
+5,Perfect!
+5,Survives in my hot florida attic
+5,works well
+5,Worked great exactly as advertised.
+5,It works as advertised.
+5,A much needed item
+5,GOOD
+5,Works great.
+1,The power adapter connector which plugs in to the back of the switch is so loose that it just falls out if you bump the switch even slightly.  There clearly is no quality control at tp-link. Pathetic!
+1,The 4 POE ports would not power 2 devices that I have on the nework.
+2,Could be a great product if they resolve the HDMI output defect where the output stops working.
+2,Excellent product I've bought at least a dozen.... for $41. WHY HAS THE PRICE DOUBLED SINCE THEN
+1,I purchased 5+ units and all of them are dying... usually a pop noise happens and both the unit and the charger are fried...The 5 year warranty is not honored.
+1,Does not work with Ubiquiti outdoor cameras....anyone want to buy this?
+4,This is/was an excellent product...while it worked.  It lasted a little over a year then it started to flake out.  Stopped sending network traffic.  For the price it is awesome it just needs to last a little longer.
+5,I've got several products by TP-Link. I love this company. All their products are innovative durable reliable and a good value.This is no exception. We're using these at home and a small office. Simple straightforward no surprises when installing and versatile to add additional equipment or devices later.Here are three things to consider before buying:(1) This is a switch (not a router). Just be clear what you're ordering.(2) Read the specs carefully. TP-Link is really not good at writing their specs. This is a 4 + 4 Port (NOT an 8-port). It has only 4 POE ports and 4 regular 10/100 (or 10/100/1000) ports.(3) I can't imagine a scenario where the 10/100 is a good deal. It's too limiting and speeds are only getting faster. Consider this carefully but I definitely suggest spending a few extra bucks & getting the 10/100/1000.Good luck!
+5,Reliable and easy to use product.
+5,I used to apply the "no one gets fired for buying IBM" rule to networking gear. Afterall a switch router etc. is something you want to buy stick in a rack and not have to worry about it failing. To that end I would select top brands relying on their strong history of reliability. I have been using and testing TP-LINK gear for over a year now and while I don't have the 10+ years of experience I have with other brands I am very happy with the quality realitbitlity and support I have enjoyed with TP-Link's products. That may all sound like an advertisment but with competitive prices TP-Link has earned top marks from many different domains reviewers etc.
+5,Super Solid and has been everything as advertised thus far.  Quality Product.
+5,We use these switches to connect VoIP phones and IP cameras that require PoE with no problems whatsoever. Fast reliable quiet and sturdy construction - what's not to love?Definitely a great product at a fair price - worth a look if you need an 8 port hub with PoE built-in.
+5,I have used this in my classroom to connect a couple of computers and printers to the network and it works flawlessly. Just connect the network cable from your wall (or live router/switch) to any one of the ports and the other 7 will be on your network. A great cheap way to extend your wired network.
+2,This worked great for 3-4 years then I started getting strange issues with my network. It took me 2 months or so to diagnose and isolate it to this  POE switch. After reading the other reviews it seems like the TP-LINK TL-SG1008P fails after some amount of time.  At $60 it's about 1/3 the cost of a reputable brand so if you're looking for a cheap product that may need to be replaced every few years this one is it.  I'm on the fence about buying another one as a replacement or just ponying up the money to buy a better brand.
+4,This is a solid internet router/switch including PoE (Power over Ethernet) on four of the ports to transfer power to your devices (useful for video cameras for example). It has a solid construction and good security options over your intranet. Very easy to set up. Unsure how it handles high loads (e.g. with all 8 ports in action) but it works fine with just a few ports used. Note there is no WiFi. This is a wired router.
+5,I used a pair of these in a temporary installation to move my 8-camera DVR to a different room. Power-over-Ethernet works well for the cameras. No fans so these are quiet and without fans I am not too worried about using them in a dusty construction environment. These ship with a fairly large in-line power supply (e.g. like your laptop charger.  It's not an internal power supply nor is it a "wall wart" transformer) so plan to make space for it too. I like the sturdy metal case. The weight of the case and the rubber feet provided keep it in place.
+5,This switch provided exactly very easy to setup POE support for a couple of devices a WIFI Hotspot and an IP phone. I would purchase this device again.
+5,These switches are workhorses!  They just run and keep going.  The provide the necessary power over ethernet and the speeds we need.
+5,Great value
+5,Worked as expected easy to setup.
+5,Cumple su funcion si tiene totalplay no sirve para la tv.
+4,Parfait pour son utilisation j’aurais préféré qu’il soit administrable.
+5,Für unseren Privatgebrauch mehr als ausreichend bisher keine negaviten Erfahrungen macht wofür es gekauft wurde und zu einem vernünftigen Preis!
+5,correspond au descriptif technique. pour un installation domestique c'est parfait. Je distribue 4 point d'accès wifi Xystel sans soucis
+5,Meine Erwartungen wurden alle erfüllt
+5,Für die IP-Cams und einen AP im Außenbereich...Datendurchsatz i.O.
+5,Do his work
+5,Le transfert de fichier en 1Gb/s est super. L'alimentation de ma camera en poe fonctionne bien également.Par contre attention le switch n'est pas manageable.
+5,Plug and play experience for my POE-enabled Unifi AP (AC-lite). Enough juice to be able to plug in a second one eventually. No complaints from my opnsense router/firewall either. Small footprint and frame seems robust enough. Might not be the best for LAN gaming though due to it not being a fully meshed switch.
+5,Fais le travail
+5,Amazing piece of hardware none of the PoE ports have failed either after a year 1/2 of use.I've gone through many HP enterprise switches due to PoE faults.This one is worth a buy 👍
+5,The addition of the mounting brackets to either allow for it be mounting separately or in a rack was a nice feature.  This eliminated the need to try and figure out how to get the right distance for the screws if there was slots on the bottom of the switch enclosure.
+5,Este switch es pequeño y practico al tener alimetacion externa es de muy poco taño el chasis es de metal y esta diseñado para poner sobre escritorio hay que tomarlo en cuanta ya que no tiene opción de fijación en pared.Al se gigabit y PoE es una gran opción con relación precio beneficio cuento son 3 AP conectados y opera excelente.
+5,Had some old ethernet switch that constantly messed up the ethernet connections to my devices throughout the house. Ive had no connection errors since I purchased this.
+5,So far so good! We’re using this switch to power a Ubiquiti Access Point and a Lorex Security camera while handling basic switching for other devices. The only question will be longevity....
+5,Cuando tienes un internet de mas de 100 MB esta es tu opcion aparte de que no necesitas configurar nada.Es muy buen producto  hasta ahorita no he tenido problemas con el.
+5,Good value for a PoE switch. Make sure you buy one with the right number of PoE ports for your needs.
+5,Solid quiet reliable.  Great deal !
+5,Durable steel case.  Supported 2 cameras with POE and 2 TVs
+4,worked as would be expected
+5,This 8 port with 4x POE Switch is a very affordable device to network and power 4x PTZ Security camera's for home or office.
+5,Does what it has to do :)
+5,Werkt prima en naar behoren
+5,Excelente equipo fácil de instalar y usar
+5,all good. used for both purpose
+4,works well i guess. only time will tell if it holds up
+5,Recherche de la stabilité d’une connexion filaire
+5,Works well
+4,Absolutely no configuration is needed.
+5,Working perfectly
+4,works great
+1,Did not work had to return it. They did not have any other to replace it with.
+5,This review is for the  TP-Link 8 Port Desktop Switch with 4 Port POE capability.  Cutting straight to the bone. Excellent product. The SG1008P is an unmanaged switch which allows you to hook up an additional 8 Gb RJ45 internet connections into your local network.  BUT NOTE:  Buy this unit ONLY IF you need the ability to drive a maximum of 4 (four) ports with POE. (Power over Internet).  If you don't have the need for POE buy its cheaper sibling the SG108 which does the same without the POE ability at half the price.TP-Link has an excellent reputation for reliable and dependable products. this is my 3rd TP-Link Switch and the first one is still running fine after 6 (SIX) years of 24/7 use. (When I say 24/7/365 that's exactly what I mean. NO equipment is ever switched off.  I bought this one 'cause I had to drive an IP camera without the need to run a separate power cable to the camera. Just works a treat. Plug in and go... no configuration whatsoever required. ( Yes I know I could have bought a single POE power injector but I plan for the future and more POE equipment is on the horizon).Now... some product features. NOTE though that only 4 ports can handle data and POE. (Of course ALL 8 ports handle data).  The switch is enclosed in a sturdy metal case and unlike it's non-POE sibling.. has a much more substantial power supply as it needs to cope with the possible extra load imposed by the connected units POE demands.The unit supports the  POE standard  802.3at which is one of the two common used POE standards.  NOTE: It never hurts to check the volage requirements of the units you are planning to connect as well as the power needs of the attached unit(s).WHY IS THIS IMPORTANT ??Well here is an example.. maybe a touch far fetched for most of us but here goes: You have splashed out on the super duper PTZ camera which has a 140 meter range at night and it's using its in-built infra-red lights.... and its PTZ mechanism is motorised and it has anti-condensation heaters. (Goodby Childrens in heritance) !!  You can bet your last penny that the power a camera of that type needs will be in EXCESS of the 55 watts total power the POE on the SG1008 can supply so the SG1008 is not what you need.  But.. for ordinary cameras or phones... you should be absolutely fine.Do take note of one other thing:  IF the POE power draw exceeds the maximum allowed 55 watts.... the switch WILL CUT THE POE power to Port 4  to protect itself from overload.  I.M.O. a very nice feature designed to protect both the switch and your equipment.Another point to note unlike it's smaller sibling the TL-SG 108  this unit has the RJ45 sockets on the BACK as well as the power input and the LINK indicator lights are on the FRONT of the unit.Cutting to the chase: An excellent Gigabit switch build like a tank with a external decent power brick. 4 ports for yr POE equipment and 8 ports in total for whatever you want to connect. No configuration needed at all.I was tempted to take one star of this review. WHY ?  While the box itself on the front calls this a DESKTOP switch... on the side specs it says that the unit is wall mountable. NOT TRUE !!!  The required slotted holes in the bottom of the unit are NOT there. In my case as I have to wall mount I just used double sided 3M adhesive tape to solve the problem. What annoys me is that it's smaller sibling the TL-SG108  DOES HAVE THESE SLOTTED WALL MOUNT HOLES.  TP-LINK  please get yr act together either correct your box writing or give us the holes we need.But... here is a nice touch.. to protect yr desk they include 4 rubber stick on feet if you want to use them.In summary: Superb product. Reliable build like a tank by a company which has an excellent reputation in this area. Buy it with confidence as I did you will be most unlikely to be disappointed. Final note: THIS IS A FULLY PURCHASED product. I do not do "freebie" or discounted reviews and if  I review a product I only do so IF I AM USING IT MYSELF. See the photos if you want to see what the unit looks like.AlbertPS: Apologies... bloody Amazon loves to turn my photos sideways !!!!!!!
+5,Top
+5,ras solide fait le job pour de l'appoint
+5,Piccolo switch otto porte con 4 porte POE fino a 30W. Ottimo il rapporto qualità prezzo
+4,Excelente switch quizas el mas economico para POE/Gigabit estoy conectando una red de camaras IP el cliente pide red gigabit para futuros upgrades a mejores camaras. hasta ahora solo un switch tiene usando los 4 puertos POE las camaras estan funcionando correctamente sin ninguna falla de voltaje o energia ¿por que 4 estrellas? por que es solo lo que es un switch poe economico que realiza su funcion de la manera en que se supone debe de hacerlo lo recomiendo si estan creando una red.
+3,Switch works fine but the PoE is wholly unreliable seemingly powering one minute then disconnects then powers and then drops the connection. Tried with other managed switches and the issue is this switch. Had to be returned I'll stick with Netgear products from now on
+5,Utilisé pour alimenter un Huawei AX3 à travers environ 10 mètres de câbles (+ splitter). Fait le job. Comme indiqué dans d'autres commentaires il faut des câbles cat 6 (des amazon basic suffisent) au minimum pour avoir du gigabit sinon c'est du 100mbits.
+5,Classique avec port PoE. Fonctionne bien !!
+5,Ich war skeptisch weil einige Switches das Signal stark abschwächen.Das ist hier nicht der Fall - natürlich wird es schwächer - hier hängen auch einige Geräte an einer Leitung - aber bei weitem nicht so sehr wie bei meinem alten Switch.Obwohl ich die zusätzliche Leitung jetzt gar nicht mehr benötige und auch keinen PoE Switch mehr werde ich diesen hier als festen Bestandteil des SetUps behalten und nutzen.
+5,Plug into router done. Love it.
+5,I have 3 Ubiquiti Unifi 6 lite connected and an IP phone overall works quite well and good value for money to get a few PoE devices working.  It is passively cooled so nice and quiet and works well
+5,La tradizionale qualità che distingue questo storico marchio ancora una volta confermato da  questo switch che acquisto da sempre. Consigliato
+5,I use this to feed power to a PTZ camera as well as distribute an NDI signal from the camera. Recommended.
+5,Love this switch box it performs similar to a hob in that the LAN ports automatically configures and detect the devices connected and the speed the Ethernet cable is capable of and this is displayed via the LED lights on the front panel. It also supports and indicates when a POE type connection is present. However I personally did not get my brand new NetDuma router purchased only a week before this switch box to utilise the power element. I connected a CAT7 cable from my NetDuma PoE LAN port to the TP-LINK TL-SG1008P switch box's PoE LAN port but the NetDuma did not turn on?? Maybe I did something wrong. I had to plug in the power cord on the NetDuma router for it to work.However if you have a Gigabit LAN ports and Cat7 cables that supports 1000Mbps then this router will indicated via the LED on the front panel that this data speed is being used. The front panel also shows which LAN ports are actively being used and which of the first 4 LAN ports are used via PoE connection - another helpful indicator on the front panel.Build quality is excellent. Full metal throughout the case and feels robust and solid. Non of that plastic crap on the case anywhere! Hope they never opt to go for those cheap plastic cases - the more metal the better. Feels compact for a 8 port switch box. Comes with 4 stick-on rubber feet to absorb shock and for better placement on smooth surfaces like a glass table/desk. I love the fact that air vents are on both sides of the case and not on the top or the bottom- This would have made this device perfect for wall mounting but it is not designed to be mounted on a wall. However I am happy with my purchase and its performance. One of best switch box out there in my opinion and I researched many before deciding on buying this one.
+5,This does exactly what it says on it's sturdy metal tin. It's an 8 port switch four of which support power over ethernet (PoE).  It's completely 'plug & play' with no configuration at all.  I'm currently using it to power my wifi access point which has PoE and my broadband modem (using a PoE splitter).I initially tested it with a Scatterbox PoE splitter and that worked perfectly. Then when I tried a TP-Link splitter it refused to work.  Oddly this turned out to be a problem with the ethernet cable and all other cables I tried worked perfectly.  I've no idea why this one cable caused an issue. Maybe the power wires were crossed over and the Scatterbox could deal with reversed polarity whilst the TP-Link splitter couldn't but that's just pure speculation.Apart from that one weird cable issue it works absolutely perfectly.  I'm really happy with it and would definitely recommend.
+4,Das Produkt läuft super wie von TP gewohnt.Alle POE Port liefern genug Power sodass beide SIP-Telefone und der AP einwandfrei laufen.Auch der Raspy hat bisher nix beanstandet.Ich ziehe aber einen Stern ab weil ohne Nachbearbeitung keine Standardschrauben passen. Das ist bei dem Preis-Leistungsverhältnis aber weniger schlimm.Einmal vorsichtig mit dem richtigen Bohraufsatz und die Schrauben passen (das muss ich die Tage noch nachholen).Von mir eine klare Empfehlung!
+4,Switch wird für die PoE Versorgung für 3 Accesspoints verwendet.+ Metallgehäuse+ Möglichkeit zur Wandbefestigung+ PoE+ fähig- Netzteil piept bei hoher PoE Last.Am besten den Uplink auf einen nicht PoE Port stecken um sich die PoE Ports frei zu halten.
+5,Ottimo Switch 8-Port Gigabit della tp-link semplice da usare utile per alimentare le telecamere POE funziona perfettamente
+4,I am not sure price can be mentioned here but it was basically the cheapest 8 ports with some (4) PoE within the main brands offering. The quality looks very good for my investment: the case is in metal and well finished a pity it will endup in the basement! I plan to wall mount it with the plugs at the bottom and the light at the top which is a better arrangement than plugs and lights all at the top (dust in plugs) or all at the bottom (can't see the lights) which you have to choose from with most switches. My main grip is that it does not seem to be grounded from the measurement i did so that's not so great for a gigabit PoE switch. This is not too surprising given it is powered thru an outside power supply but unlike a competitor with a very similar name there is no screw specifically to hook a ground wire directly to the box.
+3,This review is for the unmanaged 8 Port Gigabit POE switchI bought this switch in August 2015 to power two POE CCTV cameras. The first four ports supply POE whilst numbers 5 to 8  do not. Each POE port can supply a maximum of 15.4 Watts which should be enough for most devices but you should check your equipment's requirements to be safe.Setup was simple plug the cameras into ports 1 & 2 and in my case I used port 8 to pass the signals back to my main switch. All the connections are at the back although there are indicator lights on the front to show which ports are supplying POE which ports are connected and which if any are running a gigabit speeds. The switch was located in the study which is a 'friendly' environment with no temperature extremes or excessive humidity.It worked immediately and continued to do so for 18 months. Then about a week ago I started having problems with the cameras. Their frame rates were dropping sometimes to the point where they stopped working completely. Turning the switch off for a few minutes and then back on again seemed to solve the problem but it returned after a day. Since then the problem progressively worsened until I felt there was no option but to replace the switch.Although I couldn't easily test what the fault actually was I suspect that it might have been the power supply failing rather than the switch. I was tempted to buy a replacement 48V power supply to test my theory but as the cameras are normally running 24 x 7 I didn't want them to be out of action for too long and a replacement switch was an easier option.So good while it worked but I expect a switch to last a lot longer. Some of the other switches in my household are over five years old and still going strong. Also I was 'lucky' in that the effect on the cameras was quite noticeable. If it had been powering something like a wireless access point it might have been quite time consuming to 'pin down' the fault.
+5,Buying a budget POE switch isn’t as easy as it seems. I chose this product because I needed a Poe 802.3af switch for 4K cctv cameras and possibly a POE powered access point in the future. Most of the budget switches are only 10/100mb which isn’t fast enough for 3 4K cameras. From my research this product was the cheapest gigabit switch at the time of buying.The switch itself works great just plug and go. It’s been in the loft for 3 months and I haven’t had any connection drops and I haven’t needed to restart it. 4 of the ports are Poe and there is a light indicator on the back side to show when Poe is in use.This product isn’t rack mountable and unlike most switches the lights are on the opposite side to the plugs this means depending on the orientation of the switch you have to turn it round to check if it’s connected however it does look neat if it’s on a table with the cables passing down the back. It should be noted this doesn’t support POE+ so anything that is power hungry may struggle.
+5,Bon produit RAS
+5,Funktioniert wunderbar und verteilt zuverlässig Strom und Ethernet an unsere im Haus verteilten Ubiquity Access Points.
+5,Ich habe den Switch hinter meinem FritzRepeater 3000 angeschlossen.Von hier aus versorgt er mein PC den Drucker mein NAS und zwei Raspberry PI.Die Installation war einfach Click-Play. Ich habe bisher noch keine negativen Erfahrungen mit dem Switch gemacht und für meinen Einsatzzweck einfach ein gutes Preis/Leistungsverhältnis. PoE nutze ich für die Raspberry PI daher habe ich mich für diese Ausführung entschieden.
+5,This thing is small which works out for me in my limited space for networking gear. It's currently powering my MikroTik CSS326-24G-2S+RM (With a passive Ubiquiti 24V 0.5A injector) and a Raspberry Pi 4 B and potentially some CCTV cameras in the future. Temperatures are good which surprised me especially with how compact it is.I've only been using this for 3 days but I'm so far pretty impressed. Obviously if there's any issues or if/when I get some CCTV cameras set up I'll edit this review with an update.
+5,Installazione facilissima... permette di essere operativo non appena acceso. Le mie telecamera poe si sono subito alimentate e a funzionare senza nessun problema. Ottima la potenza di 64w disponibile su 4 porte.  Rammento che le 4 porte POE delle 8 disponibili possono essere usate anche come normali porte LAN. Ultimo da non sottovalutare la trasmissione ad 1Giga/bits per le mie connessione con Nas e PC.
+5,My ISP box is located in an awkward place; the power sockets are on the opposite side of the room to where the cable comes into the house but it is in the perfect position to run a wire upstairs to my computer without being too obvious.Rather than running a thick power cable across to it I have this POE switch upstairs by the computer and power the router via POE and a splitter basically making it a low voltage one wire system that I can hide away anywhere.I have other small wifi enabled switches around the house that I can hide in book cases and simply run a single cable for both data and power thus cutting down clutter. Running a single Cat6 out into the garden for a Wifi access point is a lot simpler than having to run power as well.Just make sure you get Gb compatible splitters; I had older 10/100 boxes which obviously throttled the bandwidth.
+4,Need a better wall mountWorks well
+5,Funziona bene lo switch possiede solo 4 porte POE.
+5,Utilizzato per estendere una rete mesh OMADA già esistente si collega e funziona. 4 porte PoE per alimentare le antenne e 4 porte RH45 standard. Le porte PoE ovviamente si possono usare anche come porte normali. Ovviamente questo modello non viene riconosciuto dall'app OMADA ma non è un problema per me almeno in questa particolare rete essendo casalinga e non professionale.
+1,Product didn’t even run for an hour and shows link activation light in amber meaning 10 Mbps while even there are no lan cables connected.
+5,Lo compré para conectar unas cámaras con POE y demás conecciones del hogar. Es bastante pequeño ideal para tenerlo metido en la caja de comunicaciones y no ocupe tanto espacio.
+5,Super Verarbeitung durch Metallgehäuse PoE Ports funktionieren fehlerfrei. Gute Status Anzeige durch LEDs an der Front.
+5,Davvero compatto in relazione al numero di porte ben 8 di cui 4 POE! (fino a 55W!)Tra i motivi per cui l'ho scelto c'è anche la disposizione dei connettori situati tutti sul retro (alimentazione e RJ45). In questo modo esteticamente risulta tutto nascosto con i soli led frontali in vistaMateriali di qualità con corpo totalmente in metallo.Lo tengo acceso H24 e non scalda affatto! Tant'è che vi ho posizionato il router sopra (leggermente distanziato dai piedi stessi del router)Altrettanto compatto è l'alimentatore (con presa schuko volendo sostituibile con una italiana se dovesse servire)Non ha porta up-link in quanto riconosce automaticamente i dispositivi collegati (come moltissimi ma non tutti i dispositivi nuovi)E' possibile utilizzare le porte POE con dispositivi non POE. Quindi alla fine si ha uno switch 8 porte Gigabit di cui 8 si possono utilizzare ANCHE con dispositivi POE (funzione utilissima! Permette di metterlo praticamente ovunque portando solo il cavo LAN!)
+5,Sehr gutes Gerät funktioniert sofort und ist sehr schnell.
+5,Well made with sturdy metal case. Functioning quite well. No issue found in the past 3 months.A plug and play worry-free network switch.
+4,This is a Great Item.The switch worked straight out of the box No setup is needed other than installing the switch and plugging the cables in.The throughput speed has been fine so far and other than extended time with the product evaluating its longevity and robustness over time i`m really pleased with this product on day 1.I recommend this item if you are looking for a reasonably priced 8 port switch that has a no-nonsense approach to setup and use.
+5,Wunderbares Gerät
+4,Quite happy with the switch. I needed a POE switch to power some CCTV cameras and also wanted it to be gigabit so I can hook it up to my NAS and my CCTV DVR. I'm pleased to say its functioning just fine and I've had no problems with either POE or with regular gigabit networking on it. I can easily max out the gigabit port on my computer pulling 110MB/sec from my NAS to my workstation.  My only gripe is the external power brick as I'm not sure why it could not have been incorporated into the switch itself. But thats a minor issue. It's 8 port and 4 of the ports are POE capable.Pros:Sturdy metal constructionTotally silent operationGood switch bandwidth (16 Gigabits so each port can do 1Gbit in full duplex)Cons:Consumes a fair amount of powerIt doesn't do 802.11az (green / efficient ethernet) which in 2015 is a bit disappointing.Big external power brick adapter
+5,Excellent switch all round: good price small size and metal case.  Gigabit connections on my 50 metre cable run to my shed and PoE for operating my CCTV.I’ve had this installed for 6 months now and had no trouble with it so definitely recommended.If you are currently looking to purchase a new switch a few bits of advice:Opt for an unmanaged switch - 99% of home users do not need a managed switch.  If you don’t know what one is then you don’t need it.However many ports you think you need get more.  If you are going to use 4 ports get an 8 port switch.  You are not only future proofing your network also remember you will use one port for connecting the switch to your router.Opt for the gigabit switch over 100mb you may not need it currently if you don’t have gb devices but you are future proofing your home network.  Also gigabit gives significant speed increases when utilised.Hope this helps
+5,danke gerne nochmal
+5,Prodotto ricevuto nei tempi previsti e coerente con le caratteristiche publicizzate.
+4,Bought it to power a UAP-AC-Pro in which it does the job. But i wanted to have it wall mounted in which i read that it would. I then got the item in which it doesnt. So retured for the smaller model as i only need 4 ports for now. Would of got 5 Stars if wall mountable. The Switch itself felt sturdy and well built. Cant fault for the price
+5,Excellent product. I spent quite a bit of time researching the best product for my needs and this fits them perfectly.I connect a network printer MacBook pro Linux desktop and a Raspberry pi controlled NAS. I wanted to get a switch which supported PoE as I am setting up a CCTV system in my house soon and this will be able to handle with through one cable. Therefore the 8 connections this switch can make is very suitable for average home use.On a first-impression basis this a solid and nicely-weighted product which certainly does not look inferior to the other more premium switches on the market.The set up of the product was easy and I was very quickly able to set up my network and connect to all my computers. Definitely use the rubber pads as these definitely help the product to become more sturdy on your desk.All-in-all very happy with the product and would recommend.
+1,Ha funzionato bene fino a quando ha funzionato poi un pomeriggio qualcosa e' andato in corto e ha cominciato a emanare fumo....in casa c era mio figlio che ha avuto la prontezza di buttarlo in una bacinella d acqua....dalla foto si vedono chiaramente i contatti bruciati...esperienza negativa
+5,Bisher ausgezeichnet
+5,What can I say? It works... Flawlessly.My cameras support PoE natively and work a treat.I'm now also running a Wireless Extender using the PoE and a splitter. Again works a treat. Makes life so much easier only needing the one cable and no extra power sockets. Wish I could run the rest of the house on PoE :)
+5,Compacto boa qualidade de construção fonte de alimentação externa faz o pretendido
+5,Works like magic: plug stuff in and it does all the heavy-lifting. No programming required no pouring over manuals just plug & play. It does the job brilliantly with no effort from me. What’s not to love?
+5,Schnelle Lieferung Artikel wie beschrieben alles o. k. gern wieder danke...
+5,Alles bestens! Den Switch an den Strom angeschlossen - Switch mit dem Router verbunden und die Netzwerkkabel angeschlossen - Alles läuft! Die 4 POE-Ports liefern ausreichend Strom für meine Überwachungskameras. Für den Heimgebrauch völlig OK! Prima finde ich die Möglichkeit den Switch an die Wand zu hängen...
+5,I use these a lot they are my go to Poe switch brand as they just work... Everytime!!!
+5,Zunächst einmal meine Sorge weg: Der TP-Link TL-SG1008P 8-Port POE Switch funktioniert mit dem Ubiquiti Unifi AP AC LITE den ich auch erst vor 2 Monaten gekauft habe. Die älteren Rezensionen und auch andere Foreneinträge berichten immer wieder dass der Ubiquiti AP seinen Strom nicht über diesen TP-Link POE Switch erhalten würde. Das ist anscheinend nicht mehr der Fall.Ansonsten macht der Switch einen sehr soliden Eindruck. Die LEDs sind übersichtlich und für mich war es auch wichtig dass alle Kabel auf der Rückseite sind. So kann man sie besser hinter dem Schrank/Tisch verstecken.Jetzt mal gespannt ob der auch den Dauertest nach ein paar Monaten oder Jahren übersteht. Einige berichten ja dazu nicht sehr viel Positives. Für den Preis kann man das aber riskieren :P
+5,I was expecting a plastic case given the price but it's metal and not flimsy. Good number of ventilation holes works well.
+2,Sert peut-être à alimnter une seule LED et encoregrosse daube cette fonction PoEmes caméras ARLO 4K ET LEUR HUBmes lampes HUE et leur HUBmon telephone fixe et son centralmon ECHO 5RIEN NE FONCTIONNE QUE CE SOIT SEUL OU tous ensembleje ne veux entrer dans les détails électriques mais de nos jours on ne devrait pas à avoir à s'en préoccuper !un machin inutile ...
+5,Already had a couple of the related switches which work fine - just plug in and go.Bought this as it has Power Over Ethernet (POE) provision to power some of peripherals (less messy if peripheral does not need local "wall plug" to power it).Caution: Some peripheral (for example network cameras) sold as "POE" do not meet the full specification - generally they are sold with their own supply/injector and use a non-standard power supply. This switch is fully POE and is not compatible with these products .  Check the specifications to see if your peripheral will operate with a fully compliant POE supply.
+5,導入しました。アンマネージドですが、このお値段で、PoR対応のギガスイッチは、電力キャバが足りる限り、コスパ高いと思います。
+5,Das Gerät hat mich erst wg. des 80er Jahre Styles etwas skeptisch gemacht.Die Verarbeitungsqualität ist aber super und das Design gefällt mir jetzt auch sehr gut da die zusätzlichen LED Anzeigen wirklich guten Aufschluss zur Funktionalität bzw. Verbindungsgeschwindigkeiten geben. Bisher also alles einwandfrei!
+4,5ポートだと足りなかったので、この製品を購入しました。問題なしです。
+5,Functional and well made recommended *****
+4,Switch ideal para tener en el escritorio cumple su función y no se siente.
+5,Per casa va benissimo…
+5,prodotto si presenta di ottima fattura lo chassis è in metallo non è necessaria nessuna configurazione. 4 porte sono PoE che io ho utilizzato per collegare 2 access point TP Link EAP115 ed un controller Omada OC 200. Il rapporto qualità prezzo mi sembra ottimo
+4,Please note that this is Version 3. But Images provided along with the Description are wrong and misleading (they are Ver.4)Arun VP Kochi
+5,Excelente
+5,works fine with no problems ; used as power source for power over ethernet CCTV camera & as extra sockets (rj45 not powered) to wifi router. Curiously the packaging says be aware there may be radio interference generated by the unit which is " for the commercial environment " but testing with my amateur radio gear has revealed no radio interference whatsoever from the product & no domestic electrical apparatus has complained since this unit was installed. It easily keeps up with the CCTV output & the (average of ) 26GB max speed throughput to my PC. It really is a plug & play unit with no set up to worry about. Its on 24/7 but case doesn't get warm so no issues at present.
+4,faible encombrement
+5,Pris lors d'une promo le switch poe est de qualité
+5,What to say? TP-Link has proved in the past how good their materials are. This one is not different. Performs very well. The only bad thing is the price.
+5,macht genau das wass er soll versorgt meine überwachungskameras mit strom sodass ich keine zweiten kabel legen muss einfach und unkompliziert....
+5,The usual great product I've come to expect from tp-link.
+5,Wer die Unifi UAP-AC Accesspoints betreibt wird sich sicherlich schon über diese klobigen Netzteile geärgert haben. Ein Segen ist dieser TL-SG1008P mit 4 PoE-Ports. Ich betreibe daran 2 UAP-AC Access-Points.Ein Unifi UAP-AC zieht 7 Watt. Der TP-Link-Switch selbst kann max. 53 Watt abgeben. Somit sollte selbst der Betrieb in Maximalauslastung mit 4 Accessponts an den PoE-Ports (4 x 7 Watt = 28 Watt) Problemlos möglich sein.
+4,This switch functions as expected and comes in a proper metal chassis not a cheap plastic one that slides around.Having said that as prices for managed switches have reduced it's not a great deal cheaper than many of the 'smart managed' switches now available on the market so it may well be worth spending the extra few pounds on something with VLAN capabilities.The PoE power budget is advertised as 53W across all 4 ports so whilst it's fine for things like phones and wireless access points it might not be sufficient for pan/tilt IP CCTV cameras - check with your camera manufacturer.
+5,Utilisé pour alimenter 2 RPI (via splitter PoE) une caméra PoE et 4 ordinateurs il consomme moins de 20W. Étant fanless il est totalement silencieux et ne chauffe pas. Un super produit !
+5,Después de unas semanas de uso ningún problema.Me gusta el diseño que por la parte trasera se conectan los cables y por la delantera tienes los leds de información. Me queda más ordenado el sitio donde lo tengo puesto.Te indica si hay link/actividad si la conexión es a 1000Mbit y en los 4 primeros canales si se usa el PoE.Yo tengo conectados vía PoE una antena y un switch (a unos 10 metros) y ambos funcionan perfectamente solamente con la alimentación que les llega de este switch.Con el precio que tiene si necesito otro switch PoE con 8 puertos (y 4 PoE) volvería a comprarlo sin duda.
+5,Si necesitas alimentar mediante POE y además tener muchas tomas para una vivienda este es tu switch. La única pega que le saco es que no se puede fijar de ninguna manera.
+5,It is a PoE switch nothing complicated working as expected.
+5,A great bit of kit to use for my PoE IP cameras. No tinkering needed just plug and play. Have used for quite a while now and never had any issues with it. A little expensive compared to a non-PoE unmanaged switch but you get what you pay for.
+5,Buen producto de Tp Link me soluciono el problema que tenia de potencia de red
+4,Como switch Gigabit funciona perfectamente y sus cuatro puertos POE permite alimentar hasta cuatro dispositivos de red ahorrandote fuentes de alimentación pero tiene cierto consumo y la fuente de alimentación es bastante mas grande de lo habitual para un switch y por eso no le doy cinco estrellas. Pero no es nada preocupante he medido un consumo de 17 W en reposo frente a los 07 W de otro switch que no es POE lo que supone al precio actual de la electricidad 15 € mas al año respecto a otro switch de 8 puertos no POE. Pero entrega una corriente de unos 50 W (lo cito de memoria).
+5,Spot on
+5,Pesa más de los esperado pero funciona correctamente y me he ahorrado utilizar el adaptador de luz del PoE del dispositivo wifi de esta forma tengo menos cables!
+5,Gewohnte Qualität. Nichts auszusetzen.
+5,Preis Leistung ist Top. Leider keine Wandmontage möglich
+5,preso per access point poe. fa quel che dice e molto bene costruito
+5,I honestly thought this would be a cheap bit of plastic but its fantastic. I'm running cisco access points & IP cameras off it all at once with no issues at all.I was previously running a fully managed solution as a test network but got fed up and wanted to 'simplify' it and this was the cheapest thing I could find but I expected a pitfall to come with the pricetag - so far I have found none.Its a metal chassis not a cheap plastic one. Really really good value for money! If this was ebay I'd offer an A+++ rating!
+4,Ich habe das Ding gekauft hat sofort funktioniert und schon habe ich 3 Ports zu.Ich meine gut ist das Ding schon aber ... es hätte jetzt auch 6 oder alle Ports PoE haben könnenaber gut. Ich kann es weiterempfehlen denn wenn man mit dem PoE anfängt kann man nicht mehraufhören. Wenn man also große Pläne hat sollte man sich lieber ein Switch kaufen wo alle Ports PoE sindund dann auch managed damit man das als Hauptswitch nutzen kann denn dieser ist dumm.
+5,Was looking for POE switch that had the ports and power connector on the same side.  Makes for a neater installation & cable management. Very quick and easy to install gives the right voltage for my POE cameras.
+5,Top Preis!Der Poe Switch erfüllt voll seinen Zweck...Lieferung wie gewohnt Top!
+5,Per quelle che erano le mie esigenze prodotto conforme provate le porte poe funzionano correttamente. Non ho testato la velocità non avendone l'esigenza.
+5,acheté pour l'installation et l'alimentation de caméras de surveillance Hikvision.fonctionne parfaitement.
+5,Funktioniert bestens sehr gutes Preis-/Leistungsverhältnis
+5,Läuft perfekt. POE erzeugt genügend Strom für Kameras und Türklingel.
+5,Really nice little box well built and seems sturdy.  Worked straight from the box to go with a new NAS unit primarily for my home surveillance cameras but has also extended my home network having the 8 x 1 gb ports (4x PoE).  I really chose this one because it has the connections at the back and LED's on the front I really don't like seeing any wiring!All in very pleased it really does do what it says on the box!
+5,4/4 POE kann auch Leistung.
+5,Está genial. relación calidad precio muy bien.
+5,I have this in the garage so it is in a cold environment and has worked flawlessly since I installed it along with a hikvision 1080p camera. Great thing about this POE router is it reduces network congestion from my main router which handles Internet traffic and it currently is plugged into a homeplug gigabit powering adaptor which is subsequently connected to a laptop running xprotect cctv surveillance software. Works a treat and a great price too would highly recommend!
+5,Decent quality switch for the cost of it. I use it to connect power and comms to a couple of security cameras.
+5,Super Gerät
+4,Impressive little unmanaged switch does what it says on the tin. Would recommend for someone wanting a cheap gigabit home network.
+5,Hab den Switch gekauft um IP-Cams ohne zusätzliche Netzteile mittels PoE anschließen zu können.Absolut einfache Installation und funktioniert einwandfrei.
+5,For the price it's an excellent product.Full metal enclosure provides PoE in 4 ports.I'm using this to provide PoE for TP-Link's EAP 225 and OC200 Cloud Controller.No issues.
+5,Hier geht es um die Version 1GB 8 Port PoE. Diese ist steckerfertig und funktioniert einfach nur so wie man es von einem Switch ohne Management erwartet. Ich hatte vorher den selben Switchtyp allerdings in der 10/100MB-Verision und der lief bereits über 2 Jahre fehlerfrei. Habe mein Netz auf 1GB hochgerüstet und mir deshalb wieder einen Switch aus dieser Serie geholt. Das Gehäuse ist praktisch vollständig aus Blech und damit gut geschirmt. 4 Ports sind PoE und 4 Ports sind normal.
+5,Rund um ein gutes und praltisches Gerät. Plug&Play. Fertig. Verarbeitung sieht gut aus. Ob es lange hält wird die Zeit zeigen. Schade das es diese Version nicht auch als 16 Port gibt. generell finde ich für den Heimeinsatz es sehr praktisch wenn Strom und Lan-Anschluss hinten sind und nach vorne nur die LEDs flimmern.
+4,Muy útil para una casa grande con varios puntos de acceso. Por ahora no ha dado ningún problema
+4,Switch da tavolo di buona fattura l'ho preso per il poe e funziona in modo corretto per alimentare una telecamera esterna. A mio avviso il jack di collegamento dello spinotto alimentazione si stacca appena il case viene mosso comunque se lo switch è fermo non da problemi (solo 4 stelle per questo motivo). per il funzionamento tutto ok.
+4,Rien à redire pour ce switch. Installation facile et mise en fonctionnement tout aussi simple.Compact il se place facilement là ou vous avez besoin qu'il soit.
+5,I was looking for an 8 port unmanaged Gigabit switch that peforms well with the RJ45 connections at the REAR and the LED indicators at the FRONT and it had to be FANLESS.  The TL-SG1008P is the one.
+5,Nessuna segnalazione negativa da fare. E' plug & play permette l'utilizzo di molte utenze (attualmente ho collegato tre PC un NAS ed una stampante di rete) e non dà alcun tipo di problema.
+1,Ho comprato questo prodotto 5 anni fa con garanzia a vita. Ora si è rotto ed ho scritto all'assistenza di TP Link per 2 volte ma non si sono mai degnati di rispondere. Trovo che questo atteggiamento sia maleducato e non professionale. Ho parecchi prodotti TP-Link e non ho mai avuto bisogno di assistenza ma ora che serve ho scoperto un'azienda poco seria. Mi dispiace ma è giusto che i potenziali clienti sappiano come si comporta TP-Link in caso di necessità.
+5,the extension did worker proply for otherlI going to buy other later on that work on other telly
+5,Très bon switch 8 ports (dont 4 POE (transfèrent les données et l’alimentation sur un seul câble RJ45)).Utilisé pour alimenté des caméras de sécurité.Etant satisfait du produit je l'ai acheté une deuxième fois.Pour information les ports POE peuvent servir aussi en simple port switch (ne dessert pas d'alimentation si l'équipement branché ne le demande pas).
+5,Product is exactly as described and is very stable and reliable.
+5,We used to provide power to a VOIP phone as we didn't have enough wall ports. Works well.
+5,Bedien und Nutzerfreundlich
+5,Veloce non emette alcun rumore robusto connessioni posteriori PoE poco ingombrante ad un prezzo ragionevole; cosa chiedere di più ?
+5,Ottimo
+5,Works as designed...
+4,Good little IT switch. Silent as no fans so can live under the floor and the PoE ports are a massive bonus for the likes of webcams and access points. TP-LINK continue to be a good brand
+5,Built to last
+5,It worked perfectly straight out of the box.  All of my network connected devices cabled and wireless (via an Access Point) connected seamlessly.  The auto selection of gigabyte speed just happens.  The only thing I needed to do was to write a note of which device is plugged in to which socket.  Oh as usual the delivery was earlier than predicted.
+5,Dieser Switch läuft jetzt seit fast 2 Jahren bei mir durch und hat bisher keinerleit Probleme gemacht. Durchsatz sowie PoE funktionieren einwandfrei. Er wird nicht zu warm und hat kein fiependes Netzteil.4 PoE Kameras von Foscam funktionieren taddellos daran plus noch die Verbindung zur NAS und HuE Bridge alles top
+4,Works well. Looses a star as it does not work with the TP POE wi-fi access points as the POE are of different standards. Really a fault of the AP but TP should make their own devices compatible at least.
+5,Hält was es verspricht. Nach 6 Monaten noch alles in Ordnung
+5,Ottimo prodotto ad un buon prezzo
+1,Despite being of the correct power output this unit cannot power TP-Link EAP110’s which I find bizarre.
+5,ich verwende diesen Switch in meinem Heimnetzwerkund und betreibe u.a. auch 2 Raspberry Pis mittels Raspberry Pi PoE Splitter/Anschluss über die Poe-Schnittstellen des Switches.Die "Installation" ist sehr einfach und unproblematisch (einfach anstecken) und der Durchsatz (Gigabit) ist sehr zufriedenstellend.Da ich einen bestehenden Switch ersetzt habe fallen in meiner Anlage derzeit insgesamt 2 Steckernetzteile weg (Rasperry Pi) und alles wird ein wenig übersichtlicher. Vor allem der ewige Steckdosenmangel ist damit etwas entschärft.
+4,This was easy to set up. I am using it to power a CCTV camera and that is working OK. Also I am getting a Gigabit connection on an 80m UTP Cat 5 cable link which I was quite happy about.
+5,Jedesmal wieder
+5,Perfecto
+5,super gerät.Kann es nur weiter empfehlen besonders da es sich um ein Gerät Handelt mit einem Metallgehäuse  handelt und nicht wie üblich um ein Gerät mit Plastikgehäuse.
+4,Excellent value for money and ideal if you only need a few POE ports..
+5,Work great for my ip cameras.
+5,Ottimo prodotto affidabile e robusto .....
+5,Ideal for linking 2 PC's and phones to one Cat5 socket
+5,Bought one of these to power some poe cameras as the previous switch i had contained a fan so was quite noisey despite it been tucked away in the loft. No fan in this switch so perfect for me. Small compact switch  does what it says on the box
+5,These switches are great.  Wireless doesn't cut it for Full HD or 4K video streaming around the house along with the plethora of other networked devices I have.  At this price I have several in different places and they just work as they should with no hassle.
+5,Great product. Very small in size and fits into small cabinets or can be easily used on your desk.Was able to power up 3 Ubiquity AC PRO access points (PoE) without issues.Satisfied overall.
+5,Router erfüllt absolut alle Aufgaben und fügt sich unaufgeregt is Wohnzimmer ein
+5,Lo switch si dimostra duro e ben fatto: apprezzabile in ogni particolare. Collegato in cascata con altro switch tramite Cat.6 e funziona perfettamente. Le 4 porte POE mi permettono di alimentare 2 dispositivi via ethernet. Davvero comodo anche per chi come me in casa ha parecchi dispositivi connessi via cavo. Consigliatissimo.
+4,Ce switch rempli parfaitement sa fonction. Acheter en version reconditionné il alimente une caméra en PoE en transmettant le flux vidéo sans problème. Une box wifi est aussi connectée et pour le moment pas de problème.Parfait pour alimenter des appareils en PoE sur de petites structures (domestique).
+5,Lovely little unit and when I see little it's tiny not at all what I was expecting.Works a treat powering my IP camera over POE what more can I say worth the money well built and it's so small it'll disappear easily for no-one to ever see it.
+5,Ausreichend für das Heimnetzwerk
+4,Buon prodotto ben funzionante
+5,Der Switch erfüllt in allen Bereichen seinen Zweck. Habe den Switch gekauft da ich POE-Anschlüsse für einen AP und eine Überwachungskamera brauchte. Das Gerät ist klein und unauffällig. Mit insgesamt acht Anschlüssen völlig ausreichend für den Schreibtisch. Sehr gut ist die Unterteilung. So kann man schnell sehen welcher Port mit welcher Übertragung belegt ist.
+4,Solid build little metal cased switch. Lights are all helpful relevant and on the front panel. The connections are made to the back panel. One thing that surprised me about this switch is how warm the casing gets. Not uncomfortably or concerningly so but just surprisingly warm.
+5,Produit très bien fini. Utilisé pour relier plusieurs machines + caméras POE fonctionne sans problème.
+5,É un apparecchio completo perché gestisce uscite Poe non-poe ed é veloce oltre che compatto.
+5,... nämlich meine zwei VOIP-Telefone mit Strom über PoE & IP-Paketen versorgen.
+5,Full Gigabit and all four PoE ports work at the same time. Tested with a customer's VoIP phone setup and with some CCTV cameras. Cannot complain :)
+5,This is a long term review.  Working fine.  Wanted a switch with POE ports and this switch provided me what I wanted.
+5,Works exactly as it says simple to use.. Just plug everything in as normal then switch on
+3,A year later and one of the POE ports have failed so nothing I can do. Bought this for connecting my 3 POE CCTV Cameras all working fine until one of the cameras continually started disconnecting from the NAS tried everything then read a post about POE switch's changed the port and all okay now but disappointed its started failing. Will try TP-Link to replace it.
+5,Use these for simple set ups to power access points. Great product as I've come to expect from tp link.
+5,Plug and play. Tempo di installazione 1 minuto.
+5,Il n'y a pas grand chose à dire ce switch fait son boulot sans problème. J'utilise un port POE pour alimenter une caméra et les autres pour différentes machines sur mon réseau local. Les débits sont très corrects. Aucun soucis.
+5,Semplice da installare e usare
+5,Perché spendere di più quando non ce n'è bisogno? Questo prodotto è eccellente con un rapporto prezzo/qualità impareggiabile. TP-LINK è quasi sempre una scelta di compromesso al ribasso del prezzo. Questo prodotto performa ottimamente. Alimenta quattro unità POE perfettamente senza problemi. Mantiene le performance d rete gigabit anche con 8 porte in uso. Zero problemi. Ne avessi bisogno lo ricomprerei a occhi chiusi cosa che peraltro ho già fatto.
+4,Leider ist PoE nur auf  4 von den 8 Ports vorhanden aber meist brauchen auch nicht alle Geräte PoE. Schade dass es kein Gerät gibt das auf 7 oder 8 (oder gleich auf allen 8) PoE bietet. Ansonsten ein guter Switch natürlich kann er nicht gemanaged werden sondern ist ein einfacher Switch.
+1,Ich habe das Produkt an einen freien LAN Port meiner Fritzbox 7590 angeschlossen.Dies führt dazu dass die DSL Verbindung unterbrochen wird. Ein weiterer sauberer Aufbau der DSL Verbindung ist dann nicht mehr möglich.Das Produkt ist also direkt an einer Fritzbox nicht zu gebrauchen.Nun habe ich einen Switch zwischen die Fritzbox und diesem POE Switch installiert.Damit scheint das Produkt die Fritzbox nicht mehr zu stören.
+5,Tutto perfetto
+4,Ottimo switch per uso casalingo o per piccoli uffici. Soddisfa pienamente le mie esigenze di ampliare il n° di porte disponibili per connettere apparecchiature di rete. Per ora si è rivelato rubusto e non ha dato segni di cedimenti.
+5,Very good switch worked out the box and is now powering 2 access points (TP Link compatible) and 4 PC's. Packaged well and very good value for money. Arrived very quickly too. Thumbs up all round :)
+5,Prodotto molto valido e affidabile. Ottima la resistenza e qualità dei materiali usati. Consiglio questo prodotto a chi ha questa necessità. Ottimo il rapporto qualità/prezzo!
+3,Didn’t power the ap it was paired with not enough power per port
+4,Funziona bene alimentatore un pò ingombrante se avesse avuto più prese PoE sarebbe stato meglio. Mi serebbe servito un cavo di alimentazione più lungo
+5,Gia inserito nella mia rete casalinga con diverse ipcam collegate in Lan. Sembra fare il suo lavoro in ottima maniera. Anche con le ipcam POE funziona perfettamente. Scalda poco e non fa rumore. L'alimentatore un po grosso. Per il resto tutto ok
+5,Bought to connect my outdoor CCTV cam since it's easier to connect via PoE. No setup needed for the switch since it's un-managed so just plug and play straight out of the box.
+5,Fonctionne parfaitement!
+5,Very good robust switches ive got about 20 running now in our server room for non critical tasks.
+3,Good product but very costly compare to local market. Paid Almost ₹1000 more than local market.  Good thing is adaptor quality is good . Over all best product but very costly
+5,Installazione ultra-semplice (plug&play) robusto con POE. Non scalda molto discreto.Per me perfetto.
+4,Works well; my only complaint is that as the chassis it metal it would have been nice to have some holes for wall mounting.
+5,Me gusto muchoEsta muy bien
+5,Works really well with TP-Link TL-PoE10R PoE Splitter Adapter.Highly recommended especially for long cable runs.Note that this device has only 4 PoE ports.
+5,Bought this to power and link some ip cctv cameras. I literally plugged everything in and it workedno fuss at all. Perfect for a little poe cctv system. Very tiny too.
+5,TP-Link アンマネージPoEスイッチ ギガ対応 8ポート(4ポートPoE) 無償永久保証 スイッチングハブ TL-SG1008PPOEHUBの中では、安価で性能も良い。
+5,prodotto bello esteticamentesemplice con un buon prezzopreso per smistare una calata lan  con cavo cat 6enon riesce pero a comandare le antenne  wifi che hanno dovuto essere alimentate da un alimentatore a parte
+4,Seems to work great! Sometimes there is some slow points where it will bottleneck.
+5,Per adesso utilizzo sono una porta PoE per una telecamera e tre porte normali. Come tutti gli switch di questa marca acquistati sino ad adesso sono pienamente soddisfatto.
+5,configuracion multiple router y decoders Movistar.Muy rapido en enganchar señal Gigabyte
+5,Prodotto perfettamente corrispondente alle specifiche ed alle aspettative. Si raccomanda in fase di matching con dispositivo alimentato POE di contollare la corrispondenza di tensioni e piedinature del connettore RJ-45 con il dispositivo target in quanto esistono diversi standard.
+5,E' già installato funzionante e rispecchia le mie aspettative. L'articolo è arrivato entro la data prevista.
+4,Fabrication solide je branche je connecte une caméra sur un port PoE et ça marche.Je le conseille à tous.
+5,Fonctionne bien.Tarif correct.Seulement 4 ports POE sur les 8 heureusement que je n'avais que 4 caméras POE mais je le savais avant l'achat.A recommander.
+1,Habe jetzt beie getestet den TL-SF1008P und den TL-SG1008P und jedesmal das gleiche.Habe die kameras am switch angeschlossen dann dem switch strom gegeben und jedesmal hat sofort die power led das blinken angefangen (nicht die max poe led) das ende vom lied war beide kameras defekt. Zum glück beides bei amazon bestellt ohne probleme zurück und neue bestellt.Anruf bei tp-link der nette herr fragte mich ob die kameras auch den selben poe standart unterstüzt wie der switch ?? keine ahnung von einem poe standart (außer die volt und wattangabe) habe ich noch nie was gehört bzw gelesen warum steht das denn nicht bei den beschreibungen dabei riechen kann ich leider nicht ob die den gleichen standart haben.Sorry falls ich etwas angefressen wirke das bin ich nämlich auch wenn ich an die vielen std dneke die da jetzt schon reingeflossen sind.Bei POE muss man also ganz genau hingucken was man kauft.Für mich leider ungeeignet
+5,Lo uso nel mio ristorante per alimentare le varie antenne dei palmari che finalmente posso mettere dove voglio senza dover dipendere da punti di alimentazione. Ottimo anche su lunghe distanze
+4,Buon prodotto. Semplice da utilizzare. Si connette e via. Nessun aggiornmento. Utilizzato per un sistema d'allarme la connessione è più che ottima.Molto importante: la garanzia è a vita.
+5,This is a very good 8-port TP link ant a very good price does what it says on the box highly satisfied
+5,Ich habe das Gerät gekauft um ein IP Telefon über Power over Ethernet zu betreiben. Ein Yealink T38G funktioniert damit einwandfrei.Preis/Leistungsverhältnis bei 4 POE Ports ist derzeit nicht schlagbar.
+5,Much more solidly built than I expected. Excellent bit of kit at a good price and saves me having separate poe injectors everywhere.
+4,Ottimo prodotto specialmente per rapporto qualità/prezzo.Lo utilizzo per alimentare le telecamere di videosorveglianza mediante PoE.Spedizione rapida ed efficace senza intoppi.Lo consiglio veramente...
+5,Got a few of these and they just work and are very good value.  TP-Link stuff seems to do that!
+5,I bought it to use the PoE ports to run IP cameras all plug and play and did the job with no fuss.
+5,Since installation a couple of months ago it has run perfectly and provided power and data access for 2 PoE cameras
+5,Usato per collegare vari dispositivi tra cui una io cam ppoe  funziona senza aver avuto problemi
+1,Pedí este producto y al conectarlo a la corriente ni siquiera se encendió. Me lo sustituyeron al día siguiente por otro idéntico y exactamente el mismo problema. Verifiqué en ambos casos que el problema residía en la fuente de alimentación: la entrada es de 100-240 V y su salida deber ser de 48 V pero no funcionan (0V a la salida). El dispositivo en sí si lo alimento con otra fuente de alimentación de 48 V sí funciona pero está claro que con la suya no está averiada. Hay que decir que el producto venía embalado y precintado no era usado. Después de mi experiencia me he decidido por otro fabricante.
+5,Il prodotto funziona perfettamente in particolar i 4 canali POE gestiscono le videocamere in modo esemplare.Speriamo sia anche resistente nel tempo e che mantenga la funzionalità ottima a lungo
+5,sono 2 anni e mezzo che lavora 24 ore su 24. Perfetto.
+4,Good value; works great.
+5,Un nome una garanziaTP-link ottimi materiali a buon mercato migliore di tante altre marche. Prodotto eccellente fa bene il suo lavoro
+5,Lo switch sta lavorando senza interruzioni e senza problemi da 8 mesi. Ottimo. Non ho usato il PoE ma attenzione alla compatibilità
+5,Ottimo
+5,switch de bonne qualité mise en fonction rapide répond à mes attentes tension des ports POE un peu juste pour 4 cameras
+5,Funciona correctamente.
+5,As stated.
+5,７０００円を切る値段で、全ポートちゃんとギガビットでリンクアップしてPoE電源供給します。１０００円とか２０００円で買えるインジェクターのほうがいい？いいえ。程度の悪いPoEインジェクターだと１００Mになるものがたまにあったりしますし、ハブボックスの中がACケーブルだらけになりますよね。これを使うと無線APを４台電源供給できます。４台くらいならアップリンクがギガビット１本でも許容範囲じゃないでしょうか。インジェクターは不安だな。という向きには、安物のマネージドPoEハブを使うくらいなら、設置済みの高価なディストリビューションスイッチの下にこれをぶら下げて使うのもいいのではないでしょうか。ただリモートからこのスイッチの電源をON/OFFできないので、無線APがハングしたときに再起動したいという用途には不向きです。そういう時には信頼できるいいPoEスイッチを買いましょう。
+5,Ha funzionato subito perfettamente.Lo uso per alimentare alcuni telefoni VOIP e non ho riscontrato alcun problema.Lo consiglio senza riserve.
+5,Tres bon rien a dire je suis satisfait de cette achat que dire de plus que je le conseil oui bien sure
+5,Excellent works well with two TP link cameras and all 8 ports in use.  Gets warm but not too warm.
+5,Great value poe switch.
+5,Fa il suo lavoro senza problemi. Lo uso per alimentare due access point con POE senza problemi da una settimana.
+5,Fast and installed without issues for a phone and a camera to save on cables.
+5,Muy facil de poner en marcha y cumple con las expectativas sin ruido ni calentamiento
+5,easy to use switch had had a few of this now and no problems AAA+++
+3,Normalmente por costumbre tener más confianza en tplink.
+5,good product
+1,Nach dem Einbau funktionierte das Internet im Netzwerk sporadisch nicht.Nach langem Suchen fand sich der Fehlerdadurch dass web Interface dieser "managebaren"  Kiste ist war auf die gleiche IP (192.168.0.1) eingestellt wie unsere FritzBoxdadurch kam es immer wieder zu Konflikten.Durch ändern der IP im Web Interface konnte ich das beheben.In der Folge wiederholte sich das Problem nach jedem Stromausfall.Die Box vergisst nach jeder Trennung vom Strom seine Einstellungen.Da nutzen mir auch die schönsten Einstellmöglichkeiten nichts wenn er sie nicht behält.
+5,Spedizione OK come da standard Amazon prodotto ottimo con possibilità di collegare apparati POE non si deve configurare basta accenderlo e collegare le porte
+4,Cet appareil est simple à connecter les ports POE fonctionnent à merveille j'ai pu y brancher ma caméra IP sans problème.
+5,attaccato e subito funzionante. zero configurazione. perfetto per chi come me deve alimentare 3/4 telecamere POE. al tatto molto solido.completamente in metallo.
+5,Handy little gigabit switch with PoE. It works well
+5,Very good switch with Poe powers my phones ok
+3,Bought to use with a poe camera ( that is getting retuned). During my brief access to the device it seemed OK.
+5,Simple plug and go to need to setup anything and could not be simpler
+5,Parfait pour ma part pour connecter mes périphériques en POE. Branchement hyper simple et surtout bien solide.Branchement en 5 minutes chrono.
+3,Die Power over Ethernet Funktion ist anscheinend nur eingeschränkt nutzbar für Geräte die einen bestimmten Standard einhalten damit nicht 100 % Kompatibel mit allen POE Geräten !
+4,item just as described
+5,Muy buenas dimensiones funcionamiento correcto.
+1,I got the item delivered on 11th Dec. when I arrived from abroad on Jan 21st the power supply was not working! I am wondering how to get this replaced with a new one!
+5,Good quality with metal case. Easy to install and works a dream.
+5,Ottimo prodotto consiglio l'acquisto! Facile da installare. I collegamenti sono tutti nella parte posteriore compreso l'alimentazione. Sono contento del prodotto
+4,E' quello che cercavo e spero che faccia il suo dovere fino in fondo anche se per il momento dopo qualche mese di utilizzo continuo non ho niente da dire.
+5,Using this with a hikvision camera works very well.
+5,job done thanks
+5,Switch POE di utilizzo immediato senza alcuna configurazione. Fa il suo lavoro le 4 porte POE funzionano egregiamente per pilotare periferiche compatibili. Pienamente soddisfatto del prodotto.
+5,Amazing little switch plug and play PoE. My Cisco Aironet 3600i working flawlessly!
+5,Great Just what I needed.  Speedy Service and a Fast Delivery.  T
+5,Habe diese Bewertung gewähltweil ich vom Produkt überzeugt war und schon etliche Produkte von link besitze und immer sehr zufrieden war.
+5,has worked flawlessly wouldn't hesitate to recommend.
+5,GRAT
+5,Great Product
+3,Very noisy fan
+1,Does not power the TL-WA701ND = TP-Link Support: "TL-WA701ND is using Passive PoE so it cannot been powered by directly plugged into the TL-SG1008P"Does not power Annke IP PoE bullet CCTV cameras TP-Link power injector does. TP-Link Support: "We are not very familiar with your cameras you may kindly check the PoE standard of your cameras"I thought maybe the PoE was not working however does power a Yealink T22p phone. However since I purchase this to power the access point and two cameras and the phone was purely to test it is useless.
+5,Very simple install (no install really it just works!)
+5,Ottimo prodotto. Fa ottimamente il suo lavoro. Io lo uso da pochi giorni per alimentare due telecamere IP per videosorveglianza e non ho riscontrato alcun tipo di problema
+3,Well priced for a 4 port PoE hub. Have been running for a few months in the rafters above my garage without any problems yet.Update: Died after 15 months usage. Decided to pick a different brand hoping to have more luck...
+5,Livraison rapide et installation en moins d’une minute
+5,Ottimo prodotto sopratutto per rapporto qualità/prezzo.Perfetto per alimentare le telecamere di videosorveglianza.Nessuna configurazione da eseguire.Affidabile veloce e sicuro.
+5,Works as plug and play and no issues
+2,Pur avendo acquistato un access point Power Over Ethernet  della stessa marca (EAP110) ma ho scoperto solo dopo che i prodotti non utilizzano lo stesso protocollo POE e quindi l'access point non si alimenta dallo switch.Tanta fatica e maggiori costi per nulla.Lo switch comunque sembra fare il suo lavoro anche se l'ho installato da poco.
+5,well made and easy to use
+5,Simple and fast router. What more do you want?
+5,Small well built works perfectly.
+5,Très bon switch Power Over Ethernet. J'en utilise 2 pour des caméras POE. Tout fonctionne parfaitement et simple à mettre en oeuvre.
+5,good quality. smallest footprint/size. very competitive price [hence 5 stars]
+5,Acquistato per alimentare una serie di ip camera costruzione robusta; avrei preferito l'alimentazione interna ma comunque l'alimentatore esterno è di buona qualità.
+5,Exellent
+5,Works perfectly out of the box!
+5,Does exactly what it should!
+5,lo mas bueno es la utilizacion del poe y la detecccion automatica de elllo por lo demas es un excelente equipo
+4,Ottimo prodotto istallazione velocissima. la configurazione con windows è automatica. Il prodotto è anche bello da vedere non ultimo la spedizione è come sempre veloce.
+5,Ottimo prodotto nel rapporto prezzo/prestazioni/dimensione. Consigliato se si desidera uno switch con 4 porte anche POE e dalle dimensioni molto contenute
+5,Good value excellent amazon service as usual.
+5,Awesome does exactly what it says on the Tin
+2,Don't use for IP phones it introduces a very annoying humming on the audio.  I had to use poe injectors instead.
+5,all ok
+5,Does the job
+5,Great - does what it's supposed to.
+5,rempli sa fonction première  a savoir alimentation POE pour webcam entre autres . Aucun souci avec ce produit .
+5,Great product and works flawlessly.
+5,Great stuff
+5,Great！
+5,Works well
+5,As described
+5,Cheap and works well.
+5,Excellent!
+5,Excellent product well worth the money.
+1,Die Ports liefern zu wenig Strom für Cams. Die Foscam Cam funktionierte nicht an dem Poe Port an einem anderen Switch ging alles.
+1,Received a wrong item  package was damage aswell.
+5,All good.
+1,le cordon d'alimentation est du standard UK et ne peut être utiliser en Europe continentale (France ...).
+1,POE didn't work properly
+1,Had to send this back as it would not provide power over ethernet to a TPLink wireless access point.
+1,This will not power 2 x CCTV cameras. 4 Port - It can barely power one POE device! Don't waste your money - Buy the Ubiquiti tough switch.
+5,Aucun commentaire négatif.  Simplement parfait pour les commerces et entreprises
+5,This product for me worked good from the start and has been running perfectly ever since.
+5,Me ayudó mucho este equipo. Le conecte dos AP de la marca Sophos y funcionan muy bien. Lo recomiendo
+5,Purchased for a Poe camera array more live than recorded.Zero problems.
+5,Works well. Simply plug and play. This is third TP Link POE switch that I have and they all work well.This switch has the led indicators on the front panel and they are quite dim. I prefer the other TP Link layout that has the led indicators located next to the RJ45 jacks however. Makes it easier to trace/troubleshoot.My only real complaint (minor) is the mounting slots on the back do not fit any regular screw head. Flat roundhead whatever. Perhaps there is some obscure metric screw that is intended to be used. Makes it difficult to mount/dismount.
+5,It works as described first time trying the POE switch to provide power to my ubiquiti AP the end result is very satisfying.
+5,O equipamento possuiu um acabamento muito bom em metal durável. A fonte de alimentação é de excelente qualidade bem superior as demais da TP-Link. No geral o switch melhorou a performance e estabilidade de minha rede.Estavam ocorrendo quedas de sinal e alguns pontos de ausência de sinal na minha rede Wi-fi.Em alguns locais as portas tinham de permanecer abertas para o sinal do Wi-fi não ser afetado.Comprei  Swift TL-5g1008P  da TPLINK  que está alimentado um ACCESS POINT AX1800 EAP620 também da TP-LINK  via cabo de rede padrão Cat5 utilizando as portas Poe.Esse conjunto  substituiu 2 roteadores e 1 extensor  de sinal TP-LINK.A configuração é Plug & Play. Após a mudança a rede ficou perfeita  sem interrupções de sinal e não houve necessidade de reinicialização de equipamentos ou configurações adicionais.Muito satisfeito com a compra.
+5,SIN PROBLEMAS
+5,Funciona bien cumple lo que dice
+5,Acheté pour en cas de panne remplacer un modèle identique.

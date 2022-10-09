@@ -1,0 +1,4 @@
+{
+"type": "module", "dependencies": {
+"fs-extra": "^10.1.0", "jsdom": "^20.0.1", "yargs": "^17.6.0"
+} }

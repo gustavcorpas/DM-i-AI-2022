@@ -1,0 +1,55 @@
+rating,review
+4,At first look I though this was a wireless-to-cradle only device as I couldn't find much about whether or not it was compatible with pads and phones... This assumption was wrong. It WILL work in multiple modes to more than just the cradle.So How? Well I'm still fighting both of mine on this. There is a document made for pairing the DS6808 which works with the li4278 but I would recommend the DS6808 as a 2D Barcode Scanner as the LI4278 is a 1D or basic barcode scanner. 2D barcodes include QR Matrix PDF417 Aztec and others.The battery life including stand by is pretty good.. standby for a few days even after using it decently in a day.. for inventory not sales operation.. Dock fairly easy to work with.It can be powered down by scanning the power down barcode but it can only be turned back on when connected to a cradle connected to a PC that is on. frustrating.Handles outdoor operations pretty well might have to dodge the sun with your hand.Pairing is a problem but when configured right will ask for a pin number. There are 2 sections of 0-9 in the manual.. only 1 will work for the pin number.. section E I believe.. and the pin may change over time also frustrating.as soon as I figure out the proper pattern and how to lock the pin number I will provide the info here. my pairing success now is about 1 out of 20 attempts.. once it's paired it's great. Successfully paired to an iPad Android tablet and an Google Pixel XL. Basically should work on any bluetooth compatible device.Update: Verified paring to IPADScan the following barcodes from the manual in order:(PDF Page Section/Page Item)108 5-4 Set Factory Defaults(wait 5 seconds to load)73 4-5 Bluetooth Keyboard Emulation (HID Slave)100 4-32 Set and Store PIN code308 E-6 Key 1308 E-6 Key 2308 E-6 Key 3308 E-6 Key 4309 E-7 End of MessageIf you would like the barcode to be followed by Enter124 5-20 <DATA><SUFFIX 1> (01h)I hope to have a website to help configure barcode scanners in the near future. This was quite painful to find but I verified pairing with my IPAD after following this. Once it's working like you want use:108 5-4 Write to Custom DefaultsThen Refresh settings with108 5-4 Restore Defaults.Good Luck!
+3,You need to have the cradle it came with connected to your computer via USB for the barcode scanner to pair to your computer. You cannot pair the scanner directly to your computer using bluetooth. It kind of defeats the purpose of the scanner being wireless. Now when I'm walking around a warehouse trying to take inventory I have to carry my laptop the cradle and it's LONG cable AND the barcode scanner. That's worse than just carrying my laptop with a barcode scanner connected directly to my laptop with a USB cable. It also beeps constantly if it is not connected and the cradle is not plugged into your computer. It needs an on off switch! I think this model was made for a fixed location such as a checkout stand at store and wasn't meant to be truly mobile.
+4,I was very hesitant buying this because of the price but after trying so many other brands in the $50 range I finally bit the bullet and bought it. I still can't get over how much it costs but it saves us so much time in our retail store that it's worth it.It's heavier than your usual scanner and easier to hold. It scans all the barcodes that the cheapers ones have trouble with. It paired seamlessly on the first try and even allowed us to program it to automatically hit enter after each scan.Is it overpriced? Probably. Even so it's still worth it being as it's the only one of its caliber on the market.
+5,Ok So sometimes you get what you pay for.  In the past I have used several wired barcode scanners and when the last cord got ripped out I decided to go wireless.  I did a quick look and found a $49 unit that has good + ratings.  When it came it only did so so on the reading.  I have an appliance and flooring store and I use it to receive inventory from over 10 vendors.  Some are clear and easy to read and some are under plastic or kind of crinkled up.  I looked at this unit and thought 5 times the cost.  But I thought let's try it if it didn't do any better I would just send it back too.  This is hands down the BEST barcode reader I have ever used.  I pulled it out of the box and from up to 5 feet away I was shooting model and serial numbers.  I have not yet had it NOT read a bar.  Highly recommend even at the price!
+4,4 because they are giving me tech support fantastic! not 5 because is not working as I would've liked it I will find out what is going on with the scanner. They first time I programmed the way I wanted it was working just fine next day I tried again and nothing....
+5,Item does not say Motorola anywhere but it doesn't affect the performance. I really like how you can program it to insert an "enter key" after you scan an item. I'm using this with Cash Register Express. I didn't have to load any software computer loaded all the drivers automatically.Accidentally dropped it while mounting to the wall no problems kept on working.
+5,Great product works perfectly. Make sure your barcodes are of good quality though. My manufacturers are doing bad print jobs so the barcodes won’t scan but this got more than the previous one I had.
+4,The card works really great most of the time but if I am not paying attention it does not scan the barcode the first time.  It is sturdy and easy to use.
+4,It should have been easier to set up with better directions. Had to view a 450 page manual online to get it setup.
+5,I have a wired scanner and this one is a perfect upgrade - works and performs as expected.  Battery performance is even better since it goes days without needing to be charged up again.  Very happy with it!
+1,This is not Motorola or Zebra. This is a knockoff product that's not worth the money you pay.The box even says that this product is not to be sold or used outside of China
+4,Just what we were looking for.
+5,works fine
+4,Works as expected.
+2,Product was sent with a bad battery.  Would not charge fresh out of the box.  After disconnecting than reconnect the battery with no change I than replaced the battery and now the system is charging.  Will see how it works.  Note I have order this brand of scanner used off Ebay and never had this problem.
+5,Thank you! Works well.
+4,Real good
+2,we buy this Motorola Symbol LI4278 Barcode Scanner Wireless with Cradle and USB Cablethree months and no longer works with a scanner and turns off can youchange for a new.thank you I await news
+1,No power cable how to connect?
+4,Arrived on time and as described!!
+5,This barcode scanner thrilled our evidence techs. The range is phenomenal. Techs were so impressed we ended up purchasing 2 more for the other departments. Well worth the money to keep techs happy.
+5,Great bar code scanner. A little on the pricey side but you get what you pay for here. Quality scanner and great range for a wireless one!
+3,Works fair signal doesn't go through walls that well! Suppose to go 350 feet at my business lucky to get 75 feet!
+5,This thing will scan anything!  You really do get what you pay for.  If you are having trouble scanning I'll bet this will fix your problem.
+5,I use this scanner everyday in my job and never even wonder if it is going to work.
+5,They arrived on time were easy to set up and work perfectly - just what you want out of a product.
+1,dañada una base inicio reclamo espero que la cambien.
+5,I'll buy from them next time I need to re order.. great PRODUCT
+5,Great wireless scanner.  We have since boughten a few more and love getting rid of the cord.
+2,Had a dead battery when delivered won't recharge... Lame:(
+5,Bar code came fast and easy to use. Extremely happy with it.
+5,Fast and easy to setup installed more than dozen of these scanners and they work great.
+1,Ordered scanner and it doesn't work tried to process a return and because it was purchase din December it's classified under the Holiday return policy. This was a business purchase and I want a new scanner or a refund.
+5,AA++
+5,scan fast but the sound is very low when it beeps
+5,superior scanner. would like the upgrade to allow for more mobile scanning.
+1,i received only the cradle and this the forth time i ordered and i received the wrong item or missing
+5,Quality easy to set up product.
+1,Only received scanner + cradle. No cable. Useless.
+5,Excellent top notch product at discounted price.
+5,This is an excellent scanner. Does the job!
+5,Very good
+5,One of the best scanners you can buy. Great for almost any POS station
+1,The product stopped working right after the return window closed.  Only had it about a month.
+5,just what we needed
+5,Very good
+5,Good product
+5,great product
+1,Did not read bar code. Returned to seller.
+1,Never turned in
+5,Very good!
+5,Completely satisfied
+5,The best
+5,This item was ordered for employees and information provided was that they are good so far.
