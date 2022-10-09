@@ -19,7 +19,11 @@ print("hello from router")
 with tf.Graph().as_default():
     # Create our inference graph
     image_string_placeholder = tf.placeholder(tf.string)
-    decoded_image = tf.image.decode_jpeg(image_string_placeholder)
+    decoded_image = tf.image.decode_image(
+            image_string_placeholder,
+            channels=3,
+            expand_animations=False,
+        )
     decoded_image_float = tf.image.convert_image_dtype(
         image=decoded_image, dtype=tf.float32
     )
