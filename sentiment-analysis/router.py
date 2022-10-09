@@ -24,6 +24,7 @@ router = APIRouter()
 @router.post('/predict', response_model=SentimentAnalysisResponseDto)
 def predict_endpoint(request: SentimentAnalysisRequestDto):
 
+    sequences = tokenizer.texts_to_sequences(request.reviews)
     padded = pad_sequences(sequences, maxlen=max_length, padding=padding_type, truncating=trunc_type)
     prediction = model.predict(padded)
     predictions = prediction.flatten()
