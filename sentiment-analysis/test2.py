@@ -17,7 +17,7 @@ oov_tok = "<OOV>"
 training_size = 40000
 num_epochs = 6
 
-data = pd.read_csv('./data/CompleteDataset.csv', sep=',', on_bad_lines="skip")
+data = pd.read_csv('./data/CompleteDatasetCleaned.csv', sep=',', on_bad_lines="skip")
 
 sentences = []
 labels = []
